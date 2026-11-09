@@ -1,0 +1,4 @@
+strategy,LCC% after 10,LCC% after 30,LCC% after 60,Eff% after 10,Eff% after 30,closures to halve LCC
+Random (mean of 30),96.0,91.1,83.2,95.0,86.0,
+Highest degree first,79.5,58.8,3.0,58.9,25.4,33.0
+Highest betweenness first,50.7,27.6,2.0,34.2,9.7,11.0

@@ -1,0 +1,606 @@
+iata,name,city,lat,lon,tzdb,region,degree,betweenness,degree_rank,betweenness_rank,in_main_network
+ABE,Lehigh Valley International Airport,Allentown,40.652099609375,-75.44080352783203,America/New_York,Lower 48,9,0.00027,124,138,True
+ATL,Hartsfield Jackson Atlanta International Airport,Atlanta,33.6367,-84.428101,America/New_York,Lower 48,153,0.0798,1,7,True
+CLT,Charlotte Douglas International Airport,Charlotte,35.2140007019043,-80.94309997558594,America/New_York,Lower 48,110,0.03827,8,17,True
+DTW,Detroit Metropolitan Wayne County Airport,Detroit,42.212398529052734,-83.35340118408203,America/New_York,Lower 48,114,0.03131,6,24,True
+MYR,Myrtle Beach International Airport,Myrtle Beach,33.6796989441,-78.9282989502,America/New_York,Lower 48,21,0.00403,62,65,True
+ORD,Chicago O'Hare International Airport,Chicago,41.9786,-87.9048,America/Chicago,Lower 48,149,0.12123,3,4,True
+PGD,Charlotte County Airport,Punta Gorda,26.92020035,-81.9905014,America/New_York,Lower 48,18,0.00036,74,136,True
+PHL,Philadelphia International Airport,Philadelphia,39.87189865112305,-75.24109649658203,America/New_York,Lower 48,88,0.02081,10,29,True
+PIE,St Petersburg Clearwater International Airport,St. Petersburg,27.91020012,-82.68740082,America/New_York,Lower 48,31,0.0018,46,92,True
+SFB,Orlando Sanford International Airport,Sanford,28.7775993347168,-81.23750305175781,America/New_York,Lower 48,48,0.01187,33,35,True
+ABI,Abilene Regional Airport,Abilene,32.4113006592,-99.6819000244,America/Chicago,Lower 48,1,0.0,458,247,True
+DFW,Dallas Fort Worth International Airport,Dallas-Fort Worth,32.896801,-97.038002,America/Chicago,Lower 48,138,0.07196,4,9,True
+ABL,Ambler Airport,Ambler,67.1063,-157.856989,America/Anchorage,Alaska,3,0.0,225,247,True
+OBU,Kobuk Airport,Kobuk,66.9123001099,-156.897003174,America/Anchorage,Alaska,3,0.0,225,247,True
+OTZ,Ralph Wien Memorial Airport,Kotzebue,66.88469696,-162.598999,America/Anchorage,Alaska,14,0.03869,89,16,True
+SHG,Shungnak Airport,Shungnak,66.88809967041,-157.16200256348,America/Anchorage,Alaska,3,0.0,225,247,True
+ABQ,Albuquerque International Sunport,Albuquerque,35.040199,-106.609001,America/Denver,Lower 48,23,0.0066,57,50,True
+BWI,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,39.1754,-76.668297,America/New_York,Lower 48,63,0.00308,23,85,True
+CNM,Cavern City Air Terminal,Carlsbad,32.337501525878906,-104.26300048828124,America/Denver,Lower 48,1,0.0,458,247,True
+DAL,Dallas Love Field,Dallas,32.847099,-96.851799,America/Chicago,Lower 48,24,0.00216,55,90,True
+DEN,Denver International Airport,Denver,39.861698150635,-104.672996521,America/Denver,Lower 48,150,0.14305,2,3,True
+HOU,William P Hobby Airport,Houston,29.64539909,-95.27890015,America/Chicago,Lower 48,49,0.0024,31,87,True
+IAH,George Bush Intercontinental Houston Airport,Houston,29.984399795532227,-95.34140014648438,America/Chicago,Lower 48,101,0.02769,9,25,True
+JFK,John F Kennedy International Airport,New York,40.63980103,-73.77890015,America/New_York,Lower 48,57,0.0022,26,89,True
+LAM,Los Alamos Airport,Los Alamos,35.8797988892,-106.268997192,America/Denver,Lower 48,1,0.0,458,247,True
+LAS,McCarran International Airport,Las Vegas,36.08010101,-115.1520004,America/Los_Angeles,Lower 48,113,0.05982,7,10,True
+LAX,Los Angeles International Airport,Los Angeles,33.94250107,-118.4079971,America/Los_Angeles,Lower 48,86,0.05295,11,12,True
+MCI,Kansas City International Airport,Kansas City,39.2976,-94.713898,America/Chicago,Lower 48,41,0.00588,36,55,True
+MDW,Chicago Midway International Airport,Chicago,41.785999,-87.752403,America/Chicago,Lower 48,67,0.00851,21,45,True
+MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,44.882,-93.221802,America/Chicago,Lower 48,117,0.07913,5,8,True
+OAK,Metropolitan Oakland International Airport,Oakland,37.721298,-122.221001,America/Los_Angeles,Lower 48,33,0.00172,41,93,True
+PDX,Portland International Airport,Portland,45.58869934,-122.5979996,America/Los_Angeles,Lower 48,54,0.02269,28,27,True
+PHX,Phoenix Sky Harbor International Airport,Phoenix,33.43429946899414,-112.01200103759766,America/Phoenix,Lower 48,78,0.03491,15,20,True
+SAN,San Diego International Airport,San Diego,32.7336006165,-117.190002441,America/Los_Angeles,Lower 48,50,0.00457,30,62,True
+SEA,Seattle Tacoma International Airport,Seattle,47.449001,-122.308998,America/Los_Angeles,Lower 48,76,0.16526,16,2,True
+SFO,San Francisco International Airport,San Francisco,37.61899948120117,-122.375,America/Los_Angeles,Lower 48,71,0.0223,19,28,True
+SLC,Salt Lake City International Airport,Salt Lake City,40.78839874267578,-111.97799682617188,America/Denver,Lower 48,85,0.0534,12,11,True
+ABR,Aberdeen Regional Airport,Aberdeen,45.449100494384766,-98.42179870605467,America/Chicago,Lower 48,1,0.0,458,247,True
+ABY,Southwest Georgia Regional Airport,Albany,31.535499572753903,-84.19450378417969,America/New_York,Lower 48,1,0.0,458,247,True
+ACK,Nantucket Memorial Airport,Nantucket,41.25310135,-70.06020355,America/New_York,Lower 48,6,0.00344,154,66,True
+BOS,General Edward Lawrence Logan International Airport,Boston,42.36429977,-71.00520325,America/New_York,Lower 48,70,0.04068,20,14,True
+EWB,New Bedford Regional Airport,New Bedford,41.67610168457031,-70.95690155029297,America/New_York,Lower 48,3,0.0,225,247,True
+HPN,Westchester County Airport,White Plains,41.06700134277344,-73.70760345458984,America/New_York,Lower 48,16,0.00499,82,58,True
+HYA,Barnstable Municipal Boardman Polando Field,Barnstable,41.66930008,-70.28040314,America/New_York,Lower 48,3,0.0,225,247,True
+MVY,Martha's Vineyard Airport,Vineyard Haven MA,41.3931007385,-70.6143035889,America/New_York,Lower 48,4,0.00016,189,153,True
+TEB,Teterboro Airport,Teterboro,40.85010147089999,-74.060798645,America/New_York,Lower 48,1,0.0,458,247,True
+ACT,Waco Regional Airport,Waco,31.611299514770508,-97.23049926757812,America/Chicago,Lower 48,1,0.0,458,247,True
+ACV,California Redwood Coast-Humboldt County Airport,Arcata CA,40.978101,-124.109,America/Los_Angeles,Lower 48,3,0.0,225,247,True
+CEC,Jack Mc Namara Field Airport,Crescent City,41.78020096,-124.2369995,America/Los_Angeles,Lower 48,2,0.0,296,247,True
+SMF,Sacramento International Airport,Sacramento,38.69540023803711,-121.59100341796876,America/Los_Angeles,Lower 48,28,0.0017,51,94,True
+ACY,Atlantic City International Airport,Atlantic City,39.45759963989258,-74.57720184326172,America/New_York,Lower 48,9,0.0,124,247,True
+FLL,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,26.072599,-80.152702,America/New_York,Lower 48,58,0.01003,25,40,True
+MCO,Orlando International Airport,Orlando,28.429399490356445,-81.30899810791016,America/New_York,Lower 48,74,0.01068,17,39,True
+RSW,Southwest Florida International Airport,Fort Myers,26.53619956970215,-81.75520324707031,America/New_York,Lower 48,31,0.00072,46,112,True
+TPA,Tampa International Airport,Tampa,27.975500106811523,-82.533203125,America/New_York,Lower 48,63,0.00432,23,63,True
+ADK,Adak Airport,Adak Island,51.87799835205078,-176.64599609375,America/Adak,Alaska,1,0.0,458,247,True
+ANC,Ted Stevens Anchorage International Airport,Anchorage,61.17440032958984,-149.99600219726562,America/Anchorage,Alaska,34,0.37219,40,1,True
+ADQ,Kodiak Airport,Kodiak,57.75,-152.4940033,America/Anchorage,Alaska,8,0.03561,136,19,True
+AKK,Akhiok Airport,Akhiok,56.9387016296,-154.182998657,America/Anchorage,Alaska,1,0.0,458,247,True
+AOS,Amook Bay Seaplane Base,Amook Bay,57.471389,-153.815278,America/Anchorage,Alaska,2,0.00327,296,69,True
+KKB,Kitoi Bay Seaplane Base,Kitoi Bay,58.190833,-152.370556,America/Anchorage,Alaska,2,0.00652,296,52,True
+KLN,Larsen Bay Airport,Larsen Bay,57.5350990295,-153.977996826,America/Anchorage,Alaska,2,0.00327,296,69,True
+KOZ,Ouzinkie Airport,Ouzinkie,57.922876,-152.500511,America/Anchorage,Alaska,2,0.0,296,247,True
+OLH,Old Harbor Airport,Old Harbor,57.218056,-153.269722,America/Anchorage,Alaska,1,0.0,458,247,True
+ORI,Port Lions Airport,Port Lions,57.885278,-152.846111,America/Anchorage,Alaska,2,0.0,296,247,True
+AET,Allakaket Airport,Allakaket,66.5518035889,-152.621994019,America/Anchorage,Alaska,3,1e-05,225,218,True
+BTT,Bettles Airport,Bettles,66.91390228,-151.529007,America/Anchorage,Alaska,4,0.00164,189,95,True
+FAI,Fairbanks International Airport,Fairbanks,64.81510162,-147.8560028,America/Anchorage,Alaska,23,0.08098,57,6,True
+HUS,Hughes Airport,Hughes,66.04109955,-154.2630005,America/Anchorage,Alaska,4,0.00066,189,115,True
+AEX,Alexandria International Airport,Alexandria,31.32740020751953,-92.54979705810548,America/Chicago,Lower 48,3,0.0,225,247,True
+AGN,Angoon Seaplane Base,Angoon,57.503601,-134.585007,America/Anchorage,Alaska,2,0.0,296,247,True
+JNU,Juneau International Airport,Juneau,58.35499954223633,-134.5760040283203,America/Anchorage,Alaska,16,0.04469,82,13,True
+TKE,Tenakee Seaplane Base,Tenakee Springs,57.779722,-135.218333,America/Anchorage,Alaska,2,0.0,296,247,True
+AGS,Augusta Regional At Bush Field,Bush Field,33.36989974975586,-81.9645004272461,America/New_York,Lower 48,3,0.0,225,247,True
+DCA,Ronald Reagan Washington National Airport,Washington,38.8521,-77.037697,America/New_York,Lower 48,85,0.01154,12,36,True
+AHN,Athens Ben Epps Airport,Athens,33.94860076904297,-83.32630157470703,America/New_York,Lower 48,1,0.0,458,247,True
+BNA,Nashville International Airport,Nashville,36.1245002746582,-86.6781997680664,America/Chicago,Lower 48,46,0.00618,34,54,True
+AIA,Alliance Municipal Airport,Alliance,42.0531997681,-102.804000854,America/Denver,Lower 48,2,0.0,296,247,True
+CDR,Chadron Municipal Airport,Chadron,42.837600708,-103.095001221,America/Denver,Lower 48,2,0.0,296,247,True
+AIN,Wainwright Airport,Wainwright,70.6380004883,-159.994995117,America/Anchorage,Alaska,2,0.0,296,247,True
+ATK,Atqasuk Edward Burnell Sr Memorial Airport,Atqasuk,70.46730041503906,-157.43600463867188,America/Anchorage,Alaska,2,0.0,296,247,True
+BRW,Wiley Post Will Rogers Memorial Airport,Barrow,71.285402,-156.766008,America/Anchorage,Alaska,7,0.01137,144,37,True
+AKB,Atka Airport,Atka,52.22029877,-174.2059937,America/Adak,Alaska,1,0.0,458,247,False
+DUT,Unalaska Airport,Unalaska,53.900100708,-166.544006348,America/Anchorage,Alaska,3,2e-05,225,204,False
+AKI,Akiak Airport,Akiak,60.9029006958,-161.231002808,America/Anchorage,Alaska,2,1e-05,296,218,True
+KKI,Akiachak Airport,Akiachak,60.906111,-161.426944,America/Anchorage,Alaska,2,1e-05,296,218,True
+TLT,Tuluksak Airport,Tuluksak,61.096944,-160.969444,America/Anchorage,Alaska,2,0.00326,296,79,True
+AKN,King Salmon Airport,King Salmon,58.67679977,-156.6490021,America/Anchorage,Alaska,10,0.03239,113,21,True
+DLG,Dillingham Airport,Dillingham,59.04470062,-158.5050049,America/Anchorage,Alaska,2,0.0,296,247,True
+EGX,Egegik Airport,Egegik,58.1855010986,-157.375,America/Anchorage,Alaska,2,0.0,296,247,True
+IGG,Igiugig Airport,Igiugig,59.32400131225586,-155.90199279785156,America/Anchorage,Alaska,2,0.0,296,247,True
+KCG,Chignik Fisheries Airport,Chignik,56.317778,-158.590833,America/Anchorage,Alaska,2,0.00326,296,79,True
+KLL,Levelock Airport,Levelock,59.128056,-156.858611,America/Anchorage,Alaska,2,0.0,296,247,True
+KPV,Perryville Airport,Perryville,55.905998,-159.162993,America/Anchorage,Alaska,2,0.00326,296,79,True
+PIP,Pilot Point Airport,Pilot Point,57.5803985596,-157.572006226,America/Anchorage,Alaska,1,0.0,458,247,True
+PTH,Port Heiden Airport,Port Heiden,56.95909881591797,-158.63299560546875,America/Anchorage,Alaska,1,0.0,458,247,True
+WSN,South Naknek Nr 2 Airport,South Naknek,58.7033996582,-157.007995605,America/Anchorage,Alaska,2,0.0,296,247,True
+AKP,Anaktuvuk Pass Airport,Anaktuvuk Pass,68.13359833,-151.7429962,America/Anchorage,Alaska,3,0.00163,225,96,True
+CXF,Coldfoot Airport,Coldfoot,67.251389,-150.176111,America/Anchorage,Alaska,2,0.0,296,247,True
+ALB,Albany International Airport,Albany,42.74829864501953,-73.80169677734375,America/New_York,Lower 48,19,0.00653,69,51,True
+CLE,Cleveland Hopkins International Airport,Cleveland,41.4117012024,-81.8498001099,America/New_York,Lower 48,53,0.01784,29,30,True
+EWR,Newark Liberty International Airport,Newark,40.692501068115234,-74.168701171875,America/New_York,Lower 48,72,0.00407,18,64,True
+IAD,Washington Dulles International Airport,Washington,38.94449997,-77.45580292,America/New_York,Lower 48,81,0.03212,14,23,True
+MSS,Massena International Richards Field,Massena,44.93579864501953,-74.84559631347656,America/New_York,Lower 48,1,0.0,458,247,True
+OGS,Ogdensburg International Airport,Ogdensburg,44.6819000244,-75.46549987790002,America/New_York,Lower 48,1,0.0,458,247,True
+ALO,Waterloo Regional Airport,Waterloo,42.55709838867188,-92.40029907226562,America/Chicago,Lower 48,1,0.0,458,247,True
+ALS,San Luis Valley Regional Bergman Field,Alamosa,37.434898,-105.866997,America/Denver,Lower 48,2,0.0,296,247,True
+FMN,Four Corners Regional Airport,Farmington,36.7411994934,-108.230003357,America/Denver,Lower 48,3,0.00012,225,165,True
+ALW,Walla Walla Regional Airport,Walla Walla,46.09489822,-118.288002,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+AMA,Rick Husband Amarillo International Airport,Amarillo,35.219398,-101.706001,America/Chicago,Lower 48,6,2e-05,154,204,True
+ANI,Aniak Airport,Aniak,61.58160018920898,-159.54299926757812,America/Anchorage,Alaska,9,0.03219,124,22,True
+BET,Bethel Airport,Bethel,60.77980042,-161.8379974,America/Anchorage,Alaska,29,0.09984,50,5,True
+CDB,Cold Bay Airport,Cold Bay,55.20610046386719,-162.72500610351562,America/Anchorage,Alaska,4,0.00979,189,41,True
+CDV,Merle K (Mudhole) Smith Airport,Cordova,60.4917984,-145.4779968,America/Anchorage,Alaska,2,0.00069,296,113,True
+ENA,Kenai Municipal Airport,Kenai,60.57310104370117,-151.2449951171875,America/Anchorage,Alaska,1,0.0,458,247,True
+HNL,Daniel K Inouye International Airport,Honolulu,21.32062,-157.924228,Pacific/Honolulu,Hawaii/Pacific,28,0.01431,51,33,True
+HOM,Homer Airport,Homer,59.645599365234375,-151.4770050048828,America/Anchorage,Alaska,1,0.0,458,247,True
+ILI,Iliamna Airport,Iliamna,59.75439835,-154.9109955,America/Anchorage,Alaska,1,0.0,458,247,True
+KSM,St Mary's Airport,St Mary's,62.0605011,-163.302002,America/Anchorage,Alaska,4,0.01071,189,38,True
+MCG,McGrath Airport,Mcgrath,62.95289993,-155.6060028,America/Anchorage,Alaska,5,0.00978,169,42,True
+OME,Nome Airport,Nome,64.51219940185547,-165.44500732421875,America/Anchorage,Alaska,16,0.03733,82,18,True
+SCC,Deadhorse Airport,Deadhorse,70.19470215,-148.4649963,America/Anchorage,Alaska,5,0.00467,169,61,True
+SDP,Sand Point Airport,Sand Point,55.31499862670898,-160.5229949951172,America/Anchorage,Alaska,1,0.0,458,247,True
+SNP,St Paul Island Airport,St. Paul Island,57.16730117797852,-170.22000122070312,America/Anchorage,Alaska,2,0.0,296,247,True
+STG,St George Airport,Point Barrow,56.5783004761,-169.662002563,America/Anchorage,Alaska,2,0.0,296,247,True
+UNK,Unalakleet Airport,Unalakleet,63.88840103,-160.798996,America/Anchorage,Alaska,6,0.00782,154,47,True
+VDZ,Valdez Pioneer Field,Valdez,61.13389969,-146.2480011,America/Anchorage,Alaska,1,0.0,458,247,True
+CHU,Chuathbaluk Airport,Chuathbaluk,61.579102,-159.216003,America/Anchorage,Alaska,2,0.00163,296,96,True
+HCR,Holy Cross Airport,Holy Cross,62.18830108642578,-159.77499389648438,America/Anchorage,Alaska,2,0.00326,296,79,True
+KLG,Kalskag Airport,Kalskag,61.53630065917969,-160.34100341796875,America/Anchorage,Alaska,3,0.00056,225,122,True
+RSH,Russian Mission Airport,Russian Mission,61.7788848877,-161.319458008,America/Anchorage,Alaska,4,0.00064,189,118,True
+SHX,Shageluk Airport,Shageluk,62.6922988892,-159.569000244,America/Anchorage,Alaska,2,0.00326,296,79,True
+SLQ,Sleetmute Airport,Sleetmute,61.7005004883,-157.166000366,America/Anchorage,Alaska,4,0.00489,189,59,True
+SRV,Stony River 2 Airport,Stony River,61.7875,-156.591111,America/Anchorage,Alaska,2,0.0,296,247,True
+ANV,Anvik Airport,Anvik,62.646702,-160.190994,America/Anchorage,Alaska,2,1e-05,296,218,True
+KGX,Grayling Airport,Grayling,62.894444,-160.065,America/Anchorage,Alaska,2,1e-05,296,218,True
+AOO,Altoona Blair County Airport,Altoona,40.29639816,-78.31999969,America/New_York,Lower 48,2,0.0,296,247,True
+JST,John Murtha Johnstown Cambria County Airport,Johnstown,40.31610107421875,-78.83390045166016,America/New_York,Lower 48,2,0.0,296,247,True
+KZB,Zachar Bay Seaplane Base,Zachar Bay,57.55,-153.75,America/Anchorage,Alaska,1,0.0,458,247,True
+APF,Naples Municipal Airport,Naples,26.1525993347,-81.7752990723,America/New_York,Lower 48,1,0.0,458,247,True
+MIA,Miami International Airport,Miami,25.79319953918457,-80.29060363769531,America/New_York,Lower 48,49,0.00779,31,48,True
+APN,Alpena County Regional Airport,Alpena,45.0780983,-83.56030273,America/New_York,Lower 48,2,0.0,296,247,True
+ARC,Arctic Village Airport,Arctic Village,68.1147,-145.578995,America/Anchorage,Alaska,1,0.0,458,247,True
+VEE,Venetie Airport,Venetie,67.0086975098,-146.365997314,America/Anchorage,Alaska,2,0.00327,296,69,True
+ART,Watertown International Airport,Watertown,43.99190139770508,-76.02169799804688,America/New_York,Lower 48,2,0.0,296,247,True
+ASE,Aspen-Pitkin Co/Sardy Field,Aspen,39.22320175,-106.8690033,America/Denver,Lower 48,2,0.0,296,247,True
+ATW,Appleton International Airport,Appleton,44.2580986023,-88.5190963745,America/Chicago,Lower 48,7,0.00025,144,141,True
+AUS,Austin Bergstrom International Airport,Austin,30.194499969482425,-97.6698989868164,America/Chicago,Lower 48,39,0.00146,37,99,True
+AVL,Asheville Regional Airport,Asheville,35.43619918823242,-82.54180145263672,America/New_York,Lower 48,8,0.00025,136,141,True
+AVP,Wilkes Barre Scranton International Airport,Scranton,41.3385009766,-75.72339630130001,America/New_York,Lower 48,6,9e-05,154,178,True
+AZO,Kalamazoo Battle Creek International Airport,Kalamazoo,42.234901428222656,-85.5521011352539,America/New_York,Lower 48,4,0.0,189,247,True
+BDL,Bradley International Airport,Windsor Locks,41.9388999939,-72.68319702149999,America/New_York,Lower 48,23,4e-05,57,189,True
+BHM,Birmingham-Shuttlesworth International Airport,Birmingham,33.56290054,-86.75350189,America/Chicago,Lower 48,19,5e-05,69,188,True
+BMI,Central Illinois Regional Airport at Bloomington-Normal,Bloomington,40.47710037,-88.91590118,America/Chicago,Lower 48,8,0.00023,136,146,True
+BQK,Brunswick Golden Isles Airport,Brunswick,31.2588005065918,-81.46649932861328,America/New_York,Lower 48,1,0.0,458,247,True
+BTR,Baton Rouge Metropolitan Airport,Baton Rouge,30.533199,-91.149597,America/Chicago,Lower 48,4,0.0,189,247,True
+BTV,Burlington International Airport,Burlington,44.4719009399,-73.15329742429999,America/New_York,Lower 48,10,0.00012,113,165,True
+BUF,Buffalo Niagara International Airport,Buffalo,42.94049835,-78.73220062,America/New_York,Lower 48,20,1e-05,63,218,True
+CAE,Columbia Metropolitan Airport,Columbia,33.93880081176758,-81.11949920654297,America/New_York,Lower 48,10,0.0,113,247,True
+CAK,Akron Canton Regional Airport,Akron,40.91609954833984,-81.44219970703125,America/New_York,Lower 48,11,0.0,106,247,True
+CHA,Lovell Field,Chattanooga,35.035301208496094,-85.20379638671875,America/New_York,Lower 48,8,0.00021,136,148,True
+CHO,Charlottesville Albemarle Airport,Charlottesville VA,38.13859939575195,-78.4529037475586,America/New_York,Lower 48,6,0.0,154,247,True
+CHS,Charleston Air Force Base-International Airport,Charleston,32.89860153,-80.04049683,America/New_York,Lower 48,20,2e-05,63,204,True
+CID,The Eastern Iowa Airport,Cedar Rapids,41.88470077514648,-91.71080017089844,America/Chicago,Lower 48,11,0.00085,106,106,True
+CMH,John Glenn Columbus International Airport,Columbus,39.998001,-82.891899,America/New_York,Lower 48,31,0.00011,46,175,True
+COS,City of Colorado Springs Municipal Airport,Colorado Springs,38.805801,-104.700996,America/Denver,Lower 48,11,1e-05,106,218,True
+CRW,Yeager Airport,Charleston,38.37310028076172,-81.59320068359375,America/New_York,Lower 48,9,1e-05,124,218,True
+CSG,Columbus Metropolitan Airport,Columbus,32.516300201416016,-84.93890380859375,America/New_York,Lower 48,1,0.0,458,247,True
+CVG,Cincinnati Northern Kentucky International Airport,Cincinnati,39.0488014221,-84.6678009033,America/New_York,Lower 48,43,0.00551,35,56,True
+DAB,Daytona Beach International Airport,Daytona Beach,29.179899,-81.058098,America/New_York,Lower 48,2,0.0,296,247,True
+DAY,James M Cox Dayton International Airport,Dayton,39.90240097045898,-84.21939849853516,America/New_York,Lower 48,16,0.0,82,247,True
+DHN,Dothan Regional Airport,Dothan,31.3213005065918,-85.44960021972656,America/Chicago,Lower 48,1,0.0,458,247,True
+DSM,Des Moines International Airport,Des Moines,41.53400039672852,-93.66310119628906,America/Chicago,Lower 48,17,0.00105,78,104,True
+ECP,Northwest Florida Beaches International Airport,Panama City,30.357106,-85.795414,America/Chicago,Lower 48,5,0.0,169,247,True
+ELP,El Paso International Airport,El Paso,31.80719948,-106.3779984,America/Denver,Lower 48,13,3e-05,97,194,True
+EVV,Evansville Regional Airport,Evansville,38.0369987488,-87.5324020386,America/Chicago,Lower 48,4,0.0,189,247,True
+EWN,Coastal Carolina Regional Airport,New Bern,35.0730018616,-77.04290008539999,America/New_York,Lower 48,2,0.0,296,247,True
+EYW,Key West International Airport,Key West,24.556100845336918,-81.75959777832031,America/New_York,Lower 48,8,0.0,136,247,True
+FAR,Hector International Airport,Fargo,46.92070007324219,-96.81580352783205,America/Chicago,Lower 48,10,0.00077,113,109,True
+FAY,Fayetteville Regional Grannis Field,Fayetteville,34.9911994934082,-78.88030242919922,America/New_York,Lower 48,4,0.0,189,247,True
+FNT,Bishop International Airport,Flint,42.96540069580078,-83.74359893798828,America/New_York,Lower 48,8,0.0,136,247,True
+FSD,Joe Foss Field Airport,Sioux Falls,43.5820007324,-96.741897583,America/Chicago,Lower 48,9,0.00057,124,121,True
+FSM,Fort Smith Regional Airport,Fort Smith,35.33660125732422,-94.36740112304688,America/Chicago,Lower 48,2,0.0,296,247,True
+FWA,Fort Wayne International Airport,Fort Wayne,40.97850037,-85.19509888,America/New_York,Lower 48,10,0.00055,113,124,True
+GNV,Gainesville Regional Airport,Gainesville,29.6900997162,-82.2717971802,America/New_York,Lower 48,5,0.0,169,247,True
+GPT,Gulfport Biloxi International Airport,Gulfport,30.40730094909668,-89.07009887695312,America/Chicago,Lower 48,4,0.0,189,247,True
+GRB,Austin Straubel International Airport,Green Bay,44.48509979248047,-88.12960052490234,America/Chicago,Lower 48,4,0.0,189,247,True
+GRK,Robert Gray  Army Air Field Airport,Killeen,31.067199707,-97.8289031982,America/Chicago,Lower 48,3,0.0,225,247,True
+GRR,Gerald R. Ford International Airport,Grand Rapids,42.88079834,-85.52279663,America/New_York,Lower 48,20,0.0011,63,100,True
+GSO,Piedmont Triad International Airport,Greensboro,36.097801208496094,-79.93730163574219,America/New_York,Lower 48,14,0.00042,89,132,True
+GSP,Greenville Spartanburg International Airport,Greenville,34.8956985474,-82.2189025879,America/New_York,Lower 48,20,0.00074,63,111,True
+GTR,Golden Triangle Regional Airport,Columbus Mississippi,33.450298309299995,-88.5914001465,America/Chicago,Lower 48,1,0.0,458,247,True
+HSV,Huntsville International Carl T Jones Field,Huntsville,34.637199401855,-86.775100708008,America/Chicago,Lower 48,9,0.0,124,247,True
+ICT,Wichita Eisenhower National Airport,Wichita,37.649899,-97.433098,America/Chicago,Lower 48,12,0.00024,101,145,True
+ILM,Wilmington International Airport,Wilmington,34.270599365234375,-77.90260314941406,America/New_York,Lower 48,5,0.0,169,247,True
+IND,Indianapolis International Airport,Indianapolis,39.7173,-86.294403,America/New_York,Lower 48,32,0.00038,43,135,True
+JAN,Jackson-Medgar Wiley Evers International Airport,Jackson,32.3111991882,-90.0758972168,America/Chicago,Lower 48,9,1e-05,124,218,True
+JAX,Jacksonville International Airport,Jacksonville,30.49410057067871,-81.68789672851562,America/New_York,Lower 48,24,2e-05,55,204,True
+LAN,Capital City Airport,Lansing,42.77870178222656,-84.58740234375,America/New_York,Lower 48,6,0.00012,154,165,True
+LEX,Blue Grass Airport,Lexington KY,38.0364990234375,-84.60590362548828,America/New_York,Lower 48,13,0.00051,97,128,True
+LFT,Lafayette Regional Airport,Lafayette,30.20529938,-91.98760223,America/Chicago,Lower 48,3,0.0,225,247,True
+LGA,La Guardia Airport,New York,40.77719879,-73.87259674,America/New_York,Lower 48,65,0.00264,22,86,True
+LIT,Bill & Hillary Clinton National Airport/Adams Field,Little Rock,34.729400634799994,-92.2242965698,America/Chicago,Lower 48,17,0.00043,78,131,True
+LWB,Greenbrier Valley Airport,Lewisburg,37.8582992554,-80.3994979858,America/New_York,Lower 48,2,0.0,296,247,True
+MBS,MBS International Airport,Saginaw,43.532901763916016,-84.07959747314453,America/New_York,Lower 48,4,0.0,189,247,True
+MCN,Middle Georgia Regional Airport,Macon,32.69279861450195,-83.64920043945312,America/New_York,Lower 48,2,0.0,296,247,True
+MDT,Harrisburg International Airport,Harrisburg,40.1935005188,-76.7633972168,America/New_York,Lower 48,11,0.00045,106,130,True
+MEI,Key Field,Meridian,32.33259963989258,-88.75189971923828,America/Chicago,Lower 48,1,0.0,458,247,True
+MEM,Memphis International Airport,Memphis,35.04240036010742,-89.97669982910156,America/Chicago,Lower 48,32,0.00792,43,46,True
+MGM,Montgomery Regional (Dannelly Field) Airport,MONTGOMERY,32.30059814,-86.39399719,America/Chicago,Lower 48,3,0.0,225,247,True
+MHT,Manchester-Boston Regional Airport,Manchester NH,42.932598,-71.435699,America/New_York,Lower 48,14,1e-05,89,218,True
+MKE,General Mitchell International Airport,Milwaukee,42.94720077514648,-87.89659881591797,America/Chicago,Lower 48,28,0.00015,51,156,True
+MLB,Melbourne International Airport,Melbourne,28.10280036926269,-80.64530181884766,America/New_York,Lower 48,2,0.0,296,247,True
+MLI,Quad City International Airport,Moline,41.44850158691406,-90.50749969482422,America/Chicago,Lower 48,10,0.00061,113,119,True
+MLU,Monroe Regional Airport,Monroe,32.51089859008789,-92.0376968383789,America/Chicago,Lower 48,3,0.0,225,247,True
+MOB,Mobile Regional Airport,Mobile,30.691200256348,-88.242797851562,America/Chicago,Lower 48,5,0.0,169,247,True
+MSL,Northwest Alabama Regional Airport,Muscle Shoals,34.74530029,-87.61019897,America/Chicago,Lower 48,1,0.0,458,247,True
+MSN,Dane County Regional Truax Field,Madison,43.13990020751953,-89.3375015258789,America/Chicago,Lower 48,11,0.0,106,247,True
+MSY,Louis Armstrong New Orleans International Airport,New Orleans,29.99340057373047,-90.25800323486328,America/Chicago,Lower 48,38,0.00048,38,129,True
+OAJ,Albert J Ellis Airport,Jacksonville NC,34.8292007446,-77.61209869380001,America/New_York,Lower 48,3,0.0,225,247,True
+OKC,Will Rogers World Airport,Oklahoma City,35.39310073852539,-97.60070037841795,America/Chicago,Lower 48,22,0.00089,61,105,True
+OMA,Eppley Airfield,Omaha,41.3032,-95.894096,America/Chicago,Lower 48,20,4e-05,63,189,True
+ORF,Norfolk International Airport,Norfolk,36.89459991455078,-76.20120239257812,America/New_York,Lower 48,19,1e-05,69,218,True
+PBI,Palm Beach International Airport,West Palm Beach,26.68320083618164,-80.09559631347656,America/New_York,Lower 48,19,0.00015,69,156,True
+PHF,Newport News Williamsburg International Airport,Newport News,37.13190079,-76.49299622,America/New_York,Lower 48,5,0.00012,169,165,True
+PIA,General Wayne A. Downing Peoria International Airport,Peoria,40.664199829100006,-89.6932983398,America/Chicago,Lower 48,10,0.00056,113,122,True
+PIB,Hattiesburg Laurel Regional Airport,Hattiesburg/Laurel,31.467100143432617,-89.33709716796875,America/Chicago,Lower 48,1,0.0,458,247,True
+PIT,Pittsburgh International Airport,Pittsburgh,40.49150085,-80.23290253,America/New_York,Lower 48,33,8e-05,41,182,True
+PNS,Pensacola Regional Airport,Pensacola,30.473400115967,-87.186599731445,America/Chicago,Lower 48,11,0.0,106,247,True
+PVD,Theodore Francis Green State Airport,Providence,41.732601,-71.420403,America/New_York,Lower 48,19,3e-05,69,194,True
+PWM,Portland International Jetport Airport,Portland,43.64619827,-70.30930328,America/New_York,Lower 48,12,0.0,101,247,True
+RDU,Raleigh Durham International Airport,Raleigh-durham,35.87760162353516,-78.7874984741211,America/New_York,Lower 48,36,0.00039,39,133,True
+RIC,Richmond International Airport,Richmond,37.50519943237305,-77.3197021484375,America/New_York,Lower 48,18,0.0,74,247,True
+ROA,Roanoke–Blacksburg Regional Airport,Roanoke VA,37.3255,-79.975403,America/New_York,Lower 48,9,0.0002,124,150,True
+ROC,Greater Rochester International Airport,Rochester,43.118900299072266,-77.67240142822266,America/New_York,Lower 48,17,1e-05,78,218,True
+SAT,San Antonio International Airport,San Antonio,29.533700942993164,-98.46980285644533,America/Chicago,Lower 48,30,0.00084,49,107,True
+SAV,Savannah Hilton Head International Airport,Savannah,32.12760162,-81.20210266,America/New_York,Lower 48,13,0.0,97,247,True
+SBN,South Bend Regional Airport,South Bend,41.70869827270508,-86.31729888916016,America/New_York,Lower 48,9,0.00054,124,126,True
+SDF,Louisville International Standiford Field,Louisville,38.1744,-85.736,America/New_York,Lower 48,23,1e-05,57,218,True
+SGF,Springfield Branson National Airport,Springfield,37.24570084,-93.38860321,America/Chicago,Lower 48,9,0.00068,124,114,True
+SHV,Shreveport Regional Airport,Shreveport,32.446602,-93.8256,America/Chicago,Lower 48,5,0.0,169,247,True
+SJC,Norman Y. Mineta San Jose International Airport,San Jose,37.362598,-121.929001,America/Los_Angeles,Lower 48,27,0.00052,54,127,True
+SNA,John Wayne Airport-Orange County Airport,Santa Ana,33.67570114,-117.8679962,America/Los_Angeles,Lower 48,18,0.00029,74,137,True
+SRQ,Sarasota Bradenton International Airport,Sarasota,27.39539909362793,-82.55439758300781,America/New_York,Lower 48,6,0.0,154,247,True
+STL,St Louis Lambert International Airport,St. Louis,38.748697,-90.370003,America/Chicago,Lower 48,56,0.02545,27,26,True
+SYR,Syracuse Hancock International Airport,Syracuse,43.11119842529297,-76.1063003540039,America/New_York,Lower 48,15,0.00022,88,147,True
+TLH,Tallahassee Regional Airport,Tallahassee,30.396499633789062,-84.35030364990234,America/New_York,Lower 48,7,0.0,144,247,True
+TRI,Tri-Cities Regional TN/VA Airport,BRISTOL,36.475201,-82.407401,America/New_York,Lower 48,4,6e-05,189,185,True
+TTN,Trenton Mercer Airport,Trenton,40.27669906616211,-74.8134994506836,America/New_York,Lower 48,14,0.00327,89,69,True
+TUL,Tulsa International Airport,Tulsa,36.19839859008789,-95.88809967041016,America/Chicago,Lower 48,18,0.00058,74,120,True
+TUP,Tupelo Regional Airport,Tupelo,34.26810073852539,-88.7698974609375,America/Chicago,Lower 48,2,0.00327,296,69,True
+TUS,Tucson International Airport,Tucson,32.1161003112793,-110.94100189208984,America/Phoenix,Lower 48,16,1e-05,82,218,True
+TYS,McGhee Tyson Airport,Knoxville,35.81100082,-83.9940033,America/New_York,Lower 48,17,0.00081,78,108,True
+VLD,Valdosta Regional Airport,Valdosta,30.78249931335449,-83.27670288085938,America/New_York,Lower 48,1,0.0,458,247,True
+VPS,Destin-Ft Walton Beach Airport,Valparaiso,30.4832,-86.525398,America/Chicago,Lower 48,5,0.0,169,247,True
+XNA,Northwest Arkansas Regional Airport,Bentonville,36.281898,-94.306801,America/Chicago,Lower 48,14,0.00039,89,133,True
+ATT,Camp Mabry Austin City,Austin TX,30.31666,-97.7666,America/Chicago,Lower 48,3,0.0,225,247,True
+KUK,Kasigluk Airport,Kasigluk,60.87440109,-162.5240021,America/Anchorage,Alaska,3,0.0,225,247,True
+NUP,Nunapitchuk Airport,Nunapitchuk,60.905833,-162.439167,America/Anchorage,Alaska,3,0.0,225,247,True
+AZA,Phoenix-Mesa-Gateway Airport,Mesa,33.30780029,-111.6549988,America/Phoenix,Lower 48,32,0.00471,43,60,True
+ATY,Watertown Regional Airport,Watertown,44.91400146,-97.15470123,America/Chicago,Lower 48,2,9e-05,296,178,True
+PIR,Pierre Regional Airport,Pierre,44.38270187,-100.2860031,America/Chicago,Lower 48,3,0.00337,225,68,True
+AUG,Augusta State Airport,Augusta,44.3205986023,-69.7973022461,America/New_York,Lower 48,1,0.0,458,247,True
+AUK,Alakanuk Airport,Alakanuk,62.6800422668,-164.659927368,America/Anchorage,Alaska,2,9e-05,296,178,True
+EMK,Emmonak Airport,Emmonak,62.78609848,-164.4909973,America/Anchorage,Alaska,3,0.00206,225,91,True
+SXP,Sheldon Point Airport,Nunam Iqua,62.520556,-164.847778,America/Anchorage,Alaska,2,0.00151,296,98,True
+HRL,Valley International Airport,Harlingen,26.228500366210938,-97.65440368652344,America/Chicago,Lower 48,7,1e-05,144,218,True
+LBB,Lubbock Preston Smith International Airport,Lubbock,33.663601,-101.822998,America/Chicago,Lower 48,8,0.00025,136,141,True
+LGB,Long Beach /Daugherty Field/ Airport,Long Beach,33.81769943,-118.1520004,America/Los_Angeles,Lower 48,12,2e-05,101,204,True
+BIL,Billings Logan International Airport,Billings,45.80770111083984,-108.54299926757812,America/Denver,Lower 48,12,0.0164,101,31,True
+BIS,Bismarck Municipal Airport,Bismarck,46.77270126342773,-100.74600219726562,America/Chicago,Lower 48,5,0.00021,169,148,True
+BLI,Bellingham International Airport,Bellingham,48.79280090332031,-122.53800201416016,America/Los_Angeles,Lower 48,9,0.00013,124,159,True
+BZN,Gallatin Field,Bozeman,45.77750015,-111.1529999,America/Denver,Lower 48,7,0.00013,144,159,True
+DLH,Duluth International Airport,Duluth,46.8420982361,-92.1936035156,America/Chicago,Lower 48,4,3e-05,189,194,True
+EUG,Mahlon Sweet Field,Eugene,44.12459945678711,-123.21199798583984,America/Los_Angeles,Lower 48,9,0.00016,124,153,True
+GFK,Grand Forks International Airport,Grand Forks,47.949299,-97.176102,America/Chicago,Lower 48,5,0.00338,169,67,True
+GRI,Central Nebraska Regional Airport,Grand Island,40.96749877929688,-98.30960083007812,America/Chicago,Lower 48,3,2e-05,225,204,True
+GTF,Great Falls International Airport,Great Falls,47.48199844,-111.3710022,America/Denver,Lower 48,7,0.00013,144,159,True
+IDA,Idaho Falls Regional Airport,Idaho Falls,43.514599,-112.070999,America/Denver,Lower 48,4,3e-05,189,194,True
+MOT,Minot International Airport,Minot,48.2593994140625,-101.27999877929688,America/Chicago,Lower 48,4,3e-05,189,194,True
+MSO,Missoula International Airport,Missoula,46.91630173,-114.0910034,America/Denver,Lower 48,7,0.00012,144,165,True
+OGD,Ogden Hinckley Airport,Ogden,41.195899963379,-112.0120010376,America/Denver,Lower 48,1,0.0,458,247,True
+PSC,Tri Cities Airport,Pasco,46.26470184326172,-119.11900329589844,America/Los_Angeles,Lower 48,8,0.00014,136,158,True
+PVU,Provo Municipal Airport,Provo,40.219200134277,-111.72299957275,America/Denver,Lower 48,3,2e-05,225,204,True
+RAP,Rapid City Regional Airport,Rapid City,44.0452995300293,-103.05699920654295,America/Denver,Lower 48,7,8e-05,144,182,True
+RFD,Chicago Rockford International Airport,Rockford,42.19540023803711,-89.09719848632812,America/Chicago,Lower 48,5,0.00016,169,153,True
+RST,Rochester International Airport,Rochester,43.90829849243164,-92.5,America/Chicago,Lower 48,3,3e-05,225,194,True
+STC,St Cloud Regional Airport,Saint Cloud,45.54660034179688,-94.05989837646484,America/Chicago,Lower 48,2,2e-05,296,204,True
+CYF,Chefornak Airport,Chefornak,60.1492004395,-164.285995483,America/Anchorage,Alaska,2,0.0,296,247,True
+EEK,Eek Airport,Eek,60.21367264,-162.0438843,America/Anchorage,Alaska,2,0.0,296,247,True
+GNU,Goodnews Airport,Goodnews Bay,59.1175,-161.5775,America/Anchorage,Alaska,2,0.0,296,247,True
+HPB,Hooper Bay Airport,Hooper Bay,61.52389908,-166.1470032,America/Anchorage,Alaska,3,0.0,225,247,True
+KKH,Kongiganak Airport,Kongiganak,59.9608001709,-162.880996704,America/Anchorage,Alaska,3,0.0,225,247,True
+KPN,Kipnuk Airport,Kipnuk,59.9329986572,-164.031005859,America/Anchorage,Alaska,3,0.0,225,247,True
+KWK,Kwigillingok Airport,Kwigillingok,59.876499,-163.169005,America/Anchorage,Alaska,3,0.0,225,247,True
+KWN,Quinhagak Airport,Quinhagak,59.7551,-161.845,America/Anchorage,Alaska,3,0.00327,225,69,True
+KWT,Kwethluk Airport,Kwethluk,60.7902984619,-161.444000244,America/Anchorage,Alaska,2,0.00326,296,79,True
+MLL,Marshall Don Hunter Sr Airport,Marshall,61.8642997742,-162.026000977,America/Anchorage,Alaska,3,2e-05,225,204,True
+MYU,Mekoryuk Airport,Mekoryuk,60.37139892578125,-166.27099609375,America/Anchorage,Alaska,2,0.0,296,247,True
+NME,Nightmute Airport,Nightmute,60.471000671387,-164.70100402832,America/Anchorage,Alaska,3,0.00108,225,102,True
+OOK,Toksook Bay Airport,Toksook Bay,60.54140091,-165.0870056,America/Anchorage,Alaska,4,0.00109,189,101,True
+PKA,Napaskiak Airport,Napaskiak,60.70289993,-161.7779999,America/Anchorage,Alaska,2,0.0,296,247,True
+PQS,Pilot Station Airport,Pilot Station,61.934444,-162.899444,America/Anchorage,Alaska,3,0.00018,225,151,True
+PTU,Platinum Airport,Port Moller,59.01139831542969,-161.82000732421875,America/Anchorage,Alaska,2,0.0,296,247,True
+SCM,Scammon Bay Airport,Scammon Bay,61.845298767100005,-165.570999146,America/Anchorage,Alaska,3,0.0,225,247,True
+VAK,Chevak Airport,Chevak,61.5409,-165.6005,America/Anchorage,Alaska,3,0.0,225,247,True
+WNA,Napakiak Airport,Napakiak,60.69029998779297,-161.97900390625,America/Anchorage,Alaska,2,0.0,296,247,True
+WTL,Tuntutuliak Airport,Tuntutuliak,60.335278,-162.666944,America/Anchorage,Alaska,2,0.0,296,247,True
+WWT,Newtok Airport,Newtok,60.939167,-164.641111,America/Anchorage,Alaska,2,0.00108,296,102,True
+BFD,Bradford Regional Airport,Bradford,41.8031005859375,-78.64009857177734,America/New_York,Lower 48,2,0.0,296,247,True
+JHW,Chautauqua County-Jamestown Airport,Jamestown,42.15340042,-79.25800323,America/New_York,Lower 48,2,0.0,296,247,True
+BFF,Western Neb. Rgnl/William B. Heilig Airport,Scottsbluff,41.87400055,-103.5960007,America/Denver,Lower 48,1,0.0,458,247,True
+BFI,Boeing Field King County International Airport,Seattle,47.52999877929688,-122.302001953125,America/Los_Angeles,Lower 48,3,1e-05,225,218,False
+CLM,William R Fairchild International Airport,Port Angeles,48.12020111083984,-123.5,America/Los_Angeles,Lower 48,1,0.0,458,247,False
+ESD,Orcas Island Airport,Eastsound,48.7081985474,-122.910003662,America/Los_Angeles,Lower 48,2,0.0,296,247,False
+FRD,Friday Harbor Airport,Friday Harbor,48.5219993591,-123.024002075,America/Los_Angeles,Lower 48,2,0.0,296,247,False
+BFL,Meadows Field,Bakersfield,35.43360138,-119.0569992,America/Los_Angeles,Lower 48,5,0.0,169,247,True
+BGM,Greater Binghamton/Edwin A Link field,Binghamton,42.20869827,-75.97979736,America/New_York,Lower 48,3,0.0,225,247,True
+BGR,Bangor International Airport,Bangor,44.80739974975586,-68.8281021118164,America/New_York,Lower 48,6,6e-05,154,185,True
+BHB,Hancock County-Bar Harbor Airport,Bar Harbor,44.45000076,-68.3615036,America/New_York,Lower 48,1,0.0,458,247,True
+GDV,Dawson Community Airport,Glendive,47.13869858,-104.8069992,America/Denver,Lower 48,1,0.0,458,247,True
+GGW,Wokal Field Glasgow International Airport,Glasgow,48.212502,-106.614998,America/Denver,Lower 48,1,0.0,458,247,True
+HVR,Havre City County Airport,Havre,48.54299927,-109.762001,America/Denver,Lower 48,1,0.0,458,247,True
+OLF,L M Clayton Airport,Wolf Point,48.0945014954,-105.574996948,America/Denver,Lower 48,1,0.0,458,247,True
+SDY,Sidney - Richland Regional Airport,Sidney,47.706902,-104.193001,America/Denver,Lower 48,1,0.0,458,247,True
+BJI,Bemidji Regional Airport,Bemidji,47.50939941,-94.93370056,America/Chicago,Lower 48,1,0.0,458,247,True
+BKC,Buckland Airport,Buckland,65.9815979004,-161.149002075,America/Anchorage,Alaska,2,0.0,296,247,True
+DRG,Deering Airport,Deering,66.0696029663,-162.76600647,America/Anchorage,Alaska,2,0.0,296,247,True
+BKG,Branson Airport,Branson,36.532082,-93.200544,America/Chicago,Lower 48,4,1e-05,189,218,True
+BKW,Raleigh County Memorial Airport,Beckley,37.7873001099,-81.1241989136,America/New_York,Lower 48,2,0.0,296,247,True
+SHD,Shenandoah Valley Regional Airport,Weyers Cave,38.2638015747,-78.8964004517,America/New_York,Lower 48,2,0.0,296,247,True
+PSP,Palm Springs International Airport,Palm Springs,33.8297004699707,-116.50700378417967,America/Los_Angeles,Lower 48,14,9e-05,89,178,True
+BLV,Scott AFB/Midamerica Airport,Belleville,38.5452,-89.835197,America/Chicago,Lower 48,1,0.0,458,247,True
+MKL,McKellar-Sipes Regional Airport,Jackson,35.599899,-88.915604,America/Chicago,Lower 48,2,0.0,296,247,True
+BOI,Boise Air Terminal/Gowen Field,Boise,43.5644,-116.223,America/Denver,Lower 48,16,0.00026,82,139,True
+GEG,Spokane International Airport,Spokane,47.61989974975586,-117.53399658203124,America/Los_Angeles,Lower 48,10,0.0,113,247,True
+LWS,Lewiston Nez Perce County Airport,Lewiston,46.3745002746582,-117.01499938964844,America/Los_Angeles,Lower 48,4,4e-05,189,189,True
+ISP,Long Island Mac Arthur Airport,Islip,40.79520035,-73.10019684,America/New_York,Lower 48,11,0.00012,106,165,True
+LEB,Lebanon Municipal Airport,Lebanon,43.6260986328,-72.30419921880001,America/New_York,Lower 48,2,0.0,296,247,True
+PBG,Plattsburgh International Airport,Plattsburgh,44.6509017944336,-73.46810150146484,America/New_York,Lower 48,5,0.00013,169,159,True
+PQI,Northern Maine Regional Airport at Presque Isle,Presque Isle,46.68899918,-68.0447998,America/New_York,Lower 48,1,0.0,458,247,True
+PVC,Provincetown Municipal Airport,Provincetown,42.0718994141,-70.2213973999,America/New_York,Lower 48,1,0.0,458,247,True
+RKD,Knox County Regional Airport,Rockland,44.06010056,-69.09919739,America/New_York,Lower 48,1,0.0,458,247,True
+RUT,Rutland - Southern Vermont Regional Airport,Rutland,43.52939987,-72.94960022,America/New_York,Lower 48,1,0.0,458,247,True
+SLK,Adirondack Regional Airport,Saranac Lake,44.38529968261719,-74.2061996459961,America/New_York,Lower 48,1,0.0,458,247,True
+BPT,Southeast Texas Regional Airport,Beaumont,29.9507999420166,-94.02069854736328,America/Chicago,Lower 48,1,0.0,458,247,True
+BRD,Brainerd Lakes Regional Airport,Brainerd,46.39830017,-94.13809967,America/Chicago,Lower 48,2,0.0,296,247,True
+INL,Falls International Airport,International Falls,48.566200256347656,-93.4030990600586,America/Chicago,Lower 48,2,0.0,296,247,True
+BRL,Southeast Iowa Regional Airport,Burlington,40.783199310302734,-91.12550354003906,America/Chicago,Lower 48,2,0.0,296,247,True
+BRO,Brownsville South Padre Island International Airport,Brownsville,25.90679931640625,-97.4259033203125,America/Chicago,Lower 48,2,0.0,296,247,True
+NUI,Nuiqsut Airport,Nuiqsut,70.2099990845,-151.005996704,America/Anchorage,Alaska,2,0.0,296,247,True
+PIZ,Point Lay LRRS Airport,Point Lay,69.73290253,-163.0050049,America/Anchorage,Alaska,2,0.00012,296,165,True
+BTI,Barter Island LRRS Airport,Barter Island,70.1340026855,-143.582000732,America/Anchorage,Alaska,2,1e-05,296,218,True
+FYU,Fort Yukon Airport,Fort Yukon,66.57150268554688,-145.25,America/Anchorage,Alaska,5,0.00673,169,49,True
+BTM,Bert Mooney Airport,Butte,45.95479965209961,-112.49700164794922,America/Denver,Lower 48,1,0.0,458,247,True
+BUR,Bob Hope Airport,Burbank,34.20069885253906,-118.35900115966795,America/Los_Angeles,Lower 48,12,0.00077,101,109,True
+IPL,Imperial County Airport,Imperial,32.834201812699995,-115.57900238,America/Los_Angeles,Lower 48,2,0.0,296,247,True
+KFP,False Pass Airport,False Pass,54.8474006652832,-163.41000366210938,America/Anchorage,Alaska,1,0.0,458,247,True
+KVC,King Cove Airport,King Cove,55.11629867553711,-162.26600646972656,America/Anchorage,Alaska,1,0.0,458,247,True
+NLG,Nelson Lagoon Airport,Nelson Lagoon,56.007499694824,-161.16000366211,America/Anchorage,Alaska,1,0.0,458,247,True
+CDC,Cedar City Regional Airport,Cedar City,37.70100021362305,-113.0989990234375,America/Denver,Lower 48,1,0.0,458,247,True
+YAK,Yakutat Airport,Yakutat,59.5032997131,-139.660003662,America/Anchorage,Alaska,2,6e-05,296,185,True
+CEM,Central Airport,Central,65.57379913,-144.7830048,America/Anchorage,Alaska,2,0.0,296,247,True
+IRC,Circle City /New/ Airport,Circle,65.830498,-144.076008,America/Anchorage,Alaska,2,0.0,296,247,True
+CEZ,Cortez Municipal Airport,Cortez,37.3030014038,-108.627998352,America/Denver,Lower 48,1,0.0,458,247,True
+CGA,Craig Seaplane Base,Craig,55.478889,-133.147778,America/Anchorage,Alaska,4,1e-05,189,218,True
+HYL,Hollis Seaplane Base,Hollis,55.481667,-132.646111,America/Anchorage,Alaska,3,0.0,225,247,True
+KLW,Klawock Airport,Klawock,55.5792007446,-133.076004028,America/Anchorage,Alaska,2,0.0,296,247,True
+KTB,Thorne Bay Seaplane Base,Thorne Bay,55.688056,-132.536667,America/Anchorage,Alaska,3,0.0,225,247,True
+KTN,Ketchikan International Airport,Ketchikan,55.35559845,-131.7140045,America/Anchorage,Alaska,14,0.0396,89,15,True
+CGI,Cape Girardeau Regional Airport,Cape Girardeau,37.22529983520508,-89.57080078125,America/Chicago,Lower 48,1,0.0,458,247,True
+CKD,Crooked Creek Airport,Crooked Creek,61.867778,-158.135,America/Anchorage,Alaska,3,1e-05,225,218,True
+CIC,Chico Municipal Airport,Chico,39.79539871,-121.8580017,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+CIK,Chalkyitsik Airport,Chalkyitsik,66.6449966431,-143.740005493,America/Anchorage,Alaska,2,0.0,296,247,True
+CIU,Chippewa County International Airport,Sault Ste Marie,46.25080108642578,-84.47239685058594,America/New_York,Lower 48,1,0.0,458,247,True
+CKB,North Central West Virginia Airport,Clarksburg,39.2966003418,-80.2281036377,America/New_York,Lower 48,3,8e-05,225,182,True
+MGW,Morgantown Municipal Walter L. Bill Hart Field,Morgantown,39.64289856,-79.91629791,America/New_York,Lower 48,2,0.0,296,247,True
+RDV,Red Devil Airport,Red Devil,61.788056,-157.350278,America/Anchorage,Alaska,2,0.0,296,247,True
+CLD,Mc Clellan-Palomar Airport,Carlsbad,33.12829971,-117.2799988,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+DUJ,DuBois Regional Airport,Du Bois,41.17829895,-78.8986969,America/New_York,Lower 48,2,0.0,296,247,True
+ERI,Erie International Tom Ridge Field,Erie,42.0831270134,-80.1738667488,America/New_York,Lower 48,3,0.0,225,247,True
+FKL,Venango Regional Airport,Franklin,41.3778991699,-79.8603973389,America/New_York,Lower 48,2,0.0,296,247,True
+PKB,Mid Ohio Valley Regional Airport,PARKERSBURG,39.34510040283203,-81.43920135498047,America/New_York,Lower 48,1,0.0,458,247,True
+CLL,Easterwood Field,College Station,30.58860016,-96.36380005,America/Chicago,Lower 48,2,0.0,296,247,True
+FLO,Florence Regional Airport,Florence,34.18539810180664,-79.7238998413086,America/New_York,Lower 48,1,0.0,458,247,True
+HHH,Hilton Head Airport,Hilton Head Island,32.2243995667,-80.6975021362,America/New_York,Lower 48,2,0.0,296,247,True
+HTS,Tri-State/Milton J. Ferguson Field,Huntington,38.36669922,-82.55799866,America/New_York,Lower 48,4,3e-05,189,194,True
+LUK,Cincinnati Municipal Airport Lunken Field,Cincinnati,39.10329819,-84.41860199,America/New_York,Lower 48,3,0.00011,225,175,True
+LYH,Lynchburg Regional Preston Glenn Field,Lynchburg,37.326698303222656,-79.20040130615234,America/New_York,Lower 48,1,0.0,458,247,True
+PGV,Pitt Greenville Airport,Greenville,35.6352005,-77.38529968,America/New_York,Lower 48,1,0.0,458,247,True
+SBY,Salisbury Ocean City Wicomico Regional Airport,Salisbury,38.34049987792969,-75.51029968261719,America/New_York,Lower 48,2,0.0,296,247,True
+RNO,Reno Tahoe International Airport,Reno,39.49909973144531,-119.76799774169922,America/Los_Angeles,Lower 48,14,2e-05,89,204,True
+CMI,University of Illinois Willard Airport,Champaign,40.03919983,-88.27809906,America/Chicago,Lower 48,2,0.0,296,247,True
+CMX,Houghton County Memorial Airport,Hancock,47.168399810791016,-88.48909759521484,America/New_York,Lower 48,1,0.0,458,247,True
+CNY,Canyonlands Field,Moab,38.75500107,-109.7549973,America/Denver,Lower 48,1,0.0,458,247,True
+COD,Yellowstone Regional Airport,Cody,44.520198822,-109.024002075,America/Denver,Lower 48,2,0.0,296,247,True
+COU,Columbia Regional Airport,Columbia,38.81809997558594,-92.21959686279295,America/Chicago,Lower 48,2,0.0,296,247,True
+CPR,Casper-Natrona County International Airport,Casper,42.908001,-106.463997,America/Denver,Lower 48,3,0.0,225,247,True
+CRP,Corpus Christi International Airport,Corpus Christi,27.77039909362793,-97.5011978149414,America/Chicago,Lower 48,4,0.0,189,247,True
+MMU,Morristown Municipal Airport,Morristown,40.79940032958984,-74.41490173339844,America/New_York,Lower 48,2,0.0,296,247,True
+CWA,Central Wisconsin Airport,Wassau,44.7775993347,-89.6668014526,America/Chicago,Lower 48,3,0.0,225,247,True
+CYS,Cheyenne Regional Jerry Olson Field,Cheyenne,41.15570068,-104.8119965,America/Denver,Lower 48,2,0.00327,296,69,True
+WRL,Worland Municipal Airport,Worland,43.9656982421875,-107.95099639892578,America/Denver,Lower 48,1,0.0,458,247,True
+ELD,South Arkansas Regional At Goodwin Field,El Dorado,33.22100067138672,-92.81330108642578,America/Chicago,Lower 48,3,3e-05,225,194,True
+MAF,Midland International Airport,Midland,31.9424991607666,-102.2020034790039,America/Chicago,Lower 48,7,0.00012,144,165,True
+DBQ,Dubuque Regional Airport,Dubuque IA,42.40200043,-90.70950317,America/Chicago,Lower 48,1,0.0,458,247,True
+DDC,Dodge City Regional Airport,Dodge City,37.76340103149414,-99.9655990600586,America/Chicago,Lower 48,2,0.0,296,247,True
+LBL,Liberal Mid-America Regional Airport,Liberal,37.0442009,-100.9599991,America/Chicago,Lower 48,2,0.0,296,247,True
+DEC,Decatur Airport,Decatur,39.834598541259766,-88.8656997680664,America/Chicago,Lower 48,2,0.0,296,247,True
+DIK,Dickinson Theodore Roosevelt Regional Airport,Dickinson,46.7974014282,-102.802001953,America/Denver,Lower 48,2,0.0,296,247,True
+DRO,Durango La Plata County Airport,Durango,37.1515007019,-107.753997803,America/Denver,Lower 48,3,0.0,225,247,True
+EAR,Kearney Municipal Airport,Kearney,40.727,-99.0068,America/Chicago,Lower 48,1,0.0,458,247,True
+EGE,Eagle County Regional Airport,Vail,39.64260101,-106.9179993,America/Denver,Lower 48,1,0.0,458,247,True
+FAT,Fresno Yosemite International Airport,Fresno,36.77619934082031,-119.71800231933594,America/Los_Angeles,Lower 48,10,0.0,113,247,True
+FCA,Glacier Park International Airport,Kalispell,48.31050109863281,-114.25599670410156,America/Denver,Lower 48,5,0.0,169,247,True
+GCC,Gillette Campbell County Airport,Gillette,44.3488998413,-105.539001465,America/Denver,Lower 48,3,0.0,225,247,True
+GJT,Grand Junction Regional Airport,Grand Junction,39.1223983765,-108.527000427,America/Denver,Lower 48,6,0.0,154,247,True
+GUC,Gunnison Crested Butte Regional Airport,Gunnison,38.53390121,-106.9329987,America/Denver,Lower 48,1,0.0,458,247,True
+HDN,Yampa Valley Airport,Hayden,40.48120117,-107.2180023,America/Denver,Lower 48,1,0.0,458,247,True
+HLN,Helena Regional Airport,Helena,46.6068000793457,-111.98300170898438,America/Denver,Lower 48,5,0.0,169,247,True
+ILG,New Castle Airport,Wilmington,39.67869949,-75.60649872,America/New_York,Lower 48,6,0.0,154,247,True
+ISN,Sloulin Field International Airport,Williston,48.177898407,-103.641998291,America/Chicago,Lower 48,2,0.0,296,247,True
+JAC,Jackson Hole Airport,Jacksn Hole,43.6072998046875,-110.73799896240234,America/Denver,Lower 48,2,0.0,296,247,True
+KOA,Ellison Onizuka Kona International At Keahole Airport,Kona,19.738783,-156.045603,Pacific/Honolulu,Hawaii/Pacific,10,0.00055,113,124,True
+LAR,Laramie Regional Airport,Laramie,41.31209945678711,-105.6750030517578,America/Denver,Lower 48,1,0.0,458,247,True
+LBF,North Platte Regional Airport Lee Bird Field,North Platte,41.12620163,-100.6839981,America/Chicago,Lower 48,1,0.0,458,247,True
+LIH,Lihue Airport,Lihue,21.97599983215332,-159.33900451660156,Pacific/Honolulu,Hawaii/Pacific,10,0.0,113,247,True
+LNK,Lincoln Airport,Lincoln,40.85100173950195,-96.75920104980467,America/Chicago,Lower 48,3,0.0,225,247,True
+MCK,Mc Cook Ben Nelson Regional Airport,McCook,40.20629883,-100.5920029,America/Chicago,Lower 48,1,0.0,458,247,True
+MFR,Rogue Valley International Medford Airport,Medford,42.37419891357422,-122.8730010986328,America/Los_Angeles,Lower 48,7,0.0,144,247,True
+MRY,Monterey Peninsula Airport,Monterey,36.58700180053711,-121.84300231933594,America/Los_Angeles,Lower 48,6,0.0,154,247,True
+MTJ,Montrose Regional Airport,Montrose CO,38.5097999573,-107.893997192,America/Denver,Lower 48,1,0.0,458,247,True
+OGG,Kahului Airport,Kahului,20.8986,-156.429993,Pacific/Honolulu,Hawaii/Pacific,20,0.00866,63,44,True
+ONT,Ontario International Airport,Ontario,34.055999755859375,-117.60099792480467,America/Los_Angeles,Lower 48,13,1e-05,97,218,True
+PGA,Page Municipal Airport,Page,36.92610168,-111.447998,America/Phoenix,Lower 48,3,0.00013,225,159,True
+PUB,Pueblo Memorial Airport,Pueblo,38.289100646972656,-104.49700164794922,America/Denver,Lower 48,1,0.0,458,247,True
+RDM,Roberts Field,Redmond-Bend,44.2541008,-121.1500015,America/Los_Angeles,Lower 48,6,0.0,154,247,True
+RIW,Riverton Regional Airport,Riverton WY,43.064201355,-108.459999084,America/Denver,Lower 48,1,0.0,458,247,True
+RKS,Southwest Wyoming Regional Airport,Rock Springs,41.5942,-109.065001,America/Denver,Lower 48,3,0.0,225,247,True
+SAF,Santa Fe Municipal Airport,Santa Fe,35.617099762,-106.088996887,America/Denver,Lower 48,3,0.0,225,247,True
+SBA,Santa Barbara Municipal Airport,Santa Barbara,34.42620087,-119.8399963,America/Los_Angeles,Lower 48,6,0.0,154,247,True
+SGU,St George Municipal Airport,Saint George,37.036389,-113.510306,America/Denver,Lower 48,2,0.0,296,247,True
+SHR,Sheridan County Airport,Sheridan,44.76919937133789,-106.9800033569336,America/Denver,Lower 48,1,0.0,458,247,True
+GCK,Garden City Regional Airport,Garden City,37.9275016785,-100.723999023,America/Chicago,Lower 48,1,0.0,458,247,True
+GGG,East Texas Regional Airport,Longview,32.38399887084961,-94.71150207519533,America/Chicago,Lower 48,1,0.0,458,247,True
+JLN,Joplin Regional Airport,Joplin,37.151798248291016,-94.49829864501952,America/Chicago,Lower 48,1,0.0,458,247,True
+LAW,Lawton Fort Sill Regional Airport,Lawton,34.5676994324,-98.4166030884,America/Chicago,Lower 48,1,0.0,458,247,True
+LCH,Lake Charles Regional Airport,Lake Charles,30.126100540161133,-93.22329711914062,America/Chicago,Lower 48,2,0.0,296,247,True
+LRD,Laredo International Airport,Laredo,27.543800354003903,-99.46160125732422,America/Chicago,Lower 48,3,0.0,225,247,True
+MFE,Mc Allen Miller International Airport,Mcallen,26.17580032,-98.23860168,America/Chicago,Lower 48,3,0.0,225,247,True
+MHK,Manhattan Regional Airport,Manhattan,39.14099884033203,-96.6707992553711,America/Chicago,Lower 48,2,0.0,296,247,True
+ROW,Roswell International Air Center Airport,Roswell,33.30160140991211,-104.53099822998048,America/Denver,Lower 48,1,0.0,458,247,True
+SJT,San Angelo Regional Mathis Field,San Angelo,31.35770034790039,-100.49600219726562,America/Chicago,Lower 48,1,0.0,458,247,True
+SPI,Abraham Lincoln Capital Airport,Springfield,39.84410095,-89.67790222,America/Chicago,Lower 48,4,0.00013,189,159,True
+SPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,Wichita Falls,33.9888,-98.491898,America/Chicago,Lower 48,1,0.0,458,247,True
+TXK,Texarkana Regional Webb Field,Texarkana,33.45370101928711,-93.99099731445312,America/Chicago,Lower 48,1,0.0,458,247,True
+TYR,Tyler Pounds Regional Airport,Tyler,32.35409927368164,-95.40239715576172,America/Chicago,Lower 48,2,0.0,296,247,True
+DHB,Deer Harbor Seaplane,Deer Harbor,48.618397,-123.00596,America/Los_Angeles,Lower 48,2,0.00652,296,52,True
+RCE,Roche Harbor Seaplane Base,Roche Harbor,48.608056,-123.159722,America/Los_Angeles,Lower 48,2,0.00977,296,43,True
+WSX,Westsound Seaplane Base,Westsound,48.617778,-122.952778,America/Los_Angeles,Lower 48,2,0.00327,296,69,True
+ELM,Elmira Corning Regional Airport,Elmira,42.1599006652832,-76.8916015625,America/New_York,Lower 48,5,0.00011,169,175,True
+ESC,Delta County Airport,Escanaba,45.7226982117,-87.0936965942,America/New_York,Lower 48,1,0.0,458,247,True
+ITH,Ithaca Tompkins Regional Airport,Ithaca,42.49100112915039,-76.4583969116211,America/New_York,Lower 48,3,0.0,225,247,True
+MQT,Sawyer International Airport,Gwinn,46.3535995483,-87.395401001,America/New_York,Lower 48,2,0.0,296,247,True
+PLN,Pellston Regional Airport of Emmet County Airport,Pellston,45.57089996,-84.79669952,America/New_York,Lower 48,1,0.0,458,247,True
+SCE,University Park Airport,State College Pennsylvania,40.8493003845,-77.84870147710001,America/New_York,Lower 48,4,0.0,189,247,True
+SWF,Stewart International Airport,Newburgh,41.50410079956055,-74.10479736328125,America/New_York,Lower 48,5,3e-05,169,194,True
+TVC,Cherry Capital Airport,Traverse City,44.74140167236328,-85.58219909667969,America/New_York,Lower 48,3,0.0,225,247,True
+IKO,Nikolski Air Station,Nikolski,52.94160079956055,-168.8489990234375,America/Anchorage,Alaska,1,0.0,458,247,False
+KQA,Akutan Seaplane Base,Akutan,54.1337704415,-165.778895617,America/Anchorage,Alaska,1,0.0,458,247,False
+EAT,Pangborn Memorial Airport,Wenatchee,47.3988990784,-120.207000732,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+EAU,Chippewa Valley Regional Airport,Eau Claire,44.86579895019531,-91.48429870605467,America/Chicago,Lower 48,1,0.0,458,247,True
+EKO,Elko Regional Airport,Elko,40.82490158081055,-115.79199981689452,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+HOT,Memorial Field,Hot Springs,34.47800064086914,-93.09619903564452,America/Chicago,Lower 48,2,0.0,296,247,True
+ELI,Elim Airport,Elim,64.61470032,-162.2720032,America/Anchorage,Alaska,3,0.0,225,247,True
+GLV,Golovin Airport,Golovin,64.5504989624,-163.007003784,America/Anchorage,Alaska,3,0.0,225,247,True
+KKA,Koyuk Alfred Adams Airport,Koyuk,64.9394989014,-161.154006958,America/Anchorage,Alaska,4,1e-05,189,218,True
+ELV,Elfin Cove Seaplane Base,Elfin Cove,58.1952018738,-136.347000122,America/Anchorage,Alaska,2,0.0,296,247,True
+PEC,Pelican Seaplane Base,Pelican,57.955278,-136.236389,America/Anchorage,Alaska,2,0.0,296,247,True
+KOT,Kotlik Airport,Kotlik,63.0306015015,-163.533004761,America/Anchorage,Alaska,3,0.00018,225,151,True
+EXI,Excursion Inlet Seaplane Base,Excursion Inlet,58.420556,-135.449167,America/Anchorage,Alaska,1,0.0,458,247,True
+GAL,Edward G. Pitka Sr Airport,Galena,64.73619843,-156.9369965,America/Anchorage,Alaska,6,0.00551,154,56,True
+KBC,Birch Creek Airport,Brich Creek,66.256708,-145.815319,America/Anchorage,Alaska,2,0.0,296,247,True
+KYU,Koyukuk Airport,Koyukuk,64.8760986328,-157.727005005,America/Anchorage,Alaska,4,0.00227,189,88,True
+LMA,Minchumina Airport,Lake Minchumina,63.886002,-152.302002,America/Anchorage,Alaska,1,0.0,458,247,True
+MLY,Manley Hot Springs Airport,Manley Hot Springs,64.99759674069999,-150.643997192,America/Anchorage,Alaska,2,0.0,296,247,True
+MNT,Minto Airport,Minto,65.143611,-149.37,America/Anchorage,Alaska,2,0.0,296,247,True
+RBY,Ruby Airport,Ruby,64.72720337,-155.4700012,America/Anchorage,Alaska,4,0.00065,189,116,True
+RMP,Rampart Airport,Rampart,65.507778,-150.140833,America/Anchorage,Alaska,1,0.0,458,247,True
+SVS,Stevens Village Airport,Stevens Village,66.016944,-149.054444,America/Anchorage,Alaska,2,0.0,296,247,True
+TAL,Tanana Airport,Tanana,65.179556,-152.075833,America/Anchorage,Alaska,4,0.00065,189,116,True
+WBQ,Beaver Airport,Beaver,66.362197876,-147.406997681,America/Anchorage,Alaska,2,0.0,296,247,True
+FBS,Friday Harbor Seaplane Base,Friday Harbor,48.537222,-123.009722,America/Los_Angeles,Lower 48,2,0.013,296,34,True
+LKE,Kenmore Air Harbor Seaplane Base,Seattle,47.629,-122.339,America/Los_Angeles,Lower 48,2,0.01623,296,32,True
+FLG,Flagstaff Pulliam Airport,Flagstaff,35.13850021,-111.6709976,America/Phoenix,Lower 48,1,0.0,458,247,True
+IAG,Niagara Falls International Airport,Niagara Falls,43.1072998046875,-78.94619750976562,America/New_York,Lower 48,5,4e-05,169,189,True
+LBE,Arnold Palmer Regional Airport,Latrobe,40.27590179,-79.40480042,America/New_York,Lower 48,3,0.0,225,247,True
+ORH,Worcester Regional Airport,Worcester,42.26729965209961,-71.87570190429688,America/New_York,Lower 48,2,0.0,296,247,True
+SOW,Show Low Regional Airport,Show Low,34.265499115,-110.005996704,America/Phoenix,Lower 48,2,1e-05,296,218,True
+FOE,Topeka Regional Airport - Forbes Field,Topeka,38.9509010315,-95.6635971069,America/Chicago,Lower 48,1,0.0,458,247,True
+HSL,Huslia Airport,Huslia,65.69789886,-156.3509979,America/Anchorage,Alaska,6,4e-05,154,189,True
+KAL,Kaltag Airport,Kaltag,64.31909943,-158.7409973,America/Anchorage,Alaska,3,0.0,225,247,True
+NUL,Nulato Airport,Nulato,64.729301,-158.074005,America/Anchorage,Alaska,3,0.0,225,247,True
+GAM,Gambell Airport,Gambell,63.76679992675781,-171.73300170898438,America/Anchorage,Alaska,2,0.0,296,247,True
+SVA,Savoonga Airport,Savoonga,63.6864013671875,-170.4929962158203,America/Anchorage,Alaska,2,0.0,296,247,True
+TVF,Thief River Falls Regional Airport,Thief River Falls,48.06570053,-96.18499756,America/Chicago,Lower 48,1,0.0,458,247,True
+GLH,Mid Delta Regional Airport,Greenville,33.4828987121582,-90.98560333251952,America/Chicago,Lower 48,1,0.0,458,247,True
+WMO,White Mountain Airport,White Mountain,64.689201355,-163.412994385,America/Anchorage,Alaska,2,0.0,296,247,True
+GST,Gustavus Airport,Gustavus,58.4253006,-135.7070007,America/Anchorage,Alaska,2,0.0,296,247,True
+HNH,Hoonah Airport,Hoonah,58.0961,-135.410111,America/Anchorage,Alaska,2,0.0,296,247,True
+HGR,Hagerstown Regional Richard A Henson Field,Hagerstown,39.707901,-77.72949982,America/New_York,Lower 48,2,1e-05,296,218,True
+HIB,Range Regional Airport,Hibbing,47.38660049,-92.83899689,America/Chicago,Lower 48,1,0.0,458,247,True
+ITO,Hilo International Airport,Hilo,19.721399307250977,-155.04800415039062,Pacific/Honolulu,Hawaii/Pacific,3,0.0,225,247,True
+JHM,Kapalua Airport,Lahania-kapalua,20.962900161743164,-156.67300415039062,Pacific/Honolulu,Hawaii/Pacific,2,0.0,296,247,True
+LNY,Lanai Airport,Lanai,20.785600662231445,-156.9510040283203,Pacific/Honolulu,Hawaii/Pacific,3,0.0,225,247,True
+MKK,Molokai Airport,Molokai,21.15290069580078,-157.0959930419922,Pacific/Honolulu,Hawaii/Pacific,3,0.0,225,247,True
+HNM,Hana Airport,Hana,20.79560089111328,-156.01400756835938,Pacific/Honolulu,Hawaii/Pacific,1,0.0,458,247,True
+HNS,Haines Airport,Haines,59.24380111694336,-135.5240020751953,America/Anchorage,Alaska,2,0.0,296,247,True
+SGY,Skagway Airport,Skagway,59.46009826660156,-135.3159942626953,America/Anchorage,Alaska,2,0.0,296,247,True
+HOB,Lea County Regional Airport,Hobbs,32.6875,-103.2170029,America/Denver,Lower 48,1,0.0,458,247,True
+HON,Huron Regional Airport,Huron,44.38520050048828,-98.22850036621094,America/Chicago,Lower 48,1,0.0,458,247,True
+HRO,Boone County Airport,Harrison,36.26150131225586,-93.15470123291016,America/Chicago,Lower 48,2,0.0,296,247,True
+HVN,Tweed New Haven Airport,New Haven,41.26369858,-72.88680267,America/New_York,Lower 48,1,0.0,458,247,True
+HYG,Hydaburg Seaplane Base,Hydaburg,55.206298828125,-132.8280029296875,America/Anchorage,Alaska,1,0.0,458,247,True
+LNS,Lancaster Airport,Lancaster,40.121700286865234,-76.29609680175781,America/New_York,Lower 48,1,0.0,458,247,True
+VCT,Victoria Regional Airport,Victoria,28.85260009765625,-96.9185028076172,America/Chicago,Lower 48,1,0.0,458,247,True
+IAN,Bob Baker Memorial Airport,Kiana,66.9759979248,-160.43699646,America/Anchorage,Alaska,2,0.0,296,247,True
+ORV,Robert (Bob) Curtis Memorial Airport,Noorvik,66.81790161,-161.0189972,America/Anchorage,Alaska,2,0.0,296,247,True
+IGM,Kingman Airport,Kingman,35.2595,-113.938,America/Phoenix,Lower 48,2,2e-05,296,204,True
+IMT,Ford Airport,Iron Mountain,45.8184013367,-88.1145019531,America/Chicago,Lower 48,2,0.0,296,247,True
+RHI,Rhinelander Oneida County Airport,Rhinelander,45.63119888305664,-89.46749877929688,America/Chicago,Lower 48,2,0.0,296,247,True
+IPT,Williamsport Regional Airport,Williamsport,41.241798400878906,-76.92109680175781,America/New_York,Lower 48,1,0.0,458,247,True
+IRK,Kirksville Regional Airport,Kirksville,40.09349822998047,-92.5448989868164,America/Chicago,Lower 48,1,0.0,458,247,True
+JBR,Jonesboro Municipal Airport,Jonesboro,35.83169937133789,-90.64640045166016,America/Chicago,Lower 48,1,0.0,458,247,True
+KAE,Kake Seaplane Base,Kake,56.973056,-133.945556,America/Anchorage,Alaska,1,0.0,458,247,True
+PSG,Petersburg James A Johnson Airport,Petersburg,56.80170059,-132.9450073,America/Anchorage,Alaska,2,0.00026,296,139,True
+SIT,Sitka Rocky Gutierrez Airport,Sitka,57.04710006713867,-135.36199951171875,America/Anchorage,Alaska,2,0.0,296,247,True
+KCC,Coffman Cove Seaplane Base,Coffman Cove,56.014722,-132.833889,America/Anchorage,Alaska,2,0.00327,296,69,True
+WWP,North Whale Seaplane Base,North Whale Pass,56.116389,-133.121667,America/Anchorage,Alaska,1,0.0,458,247,True
+KCL,Chignik Lagoon Airport,Chignik Lagoon,56.311111,-158.534167,America/Anchorage,Alaska,2,1e-05,296,218,True
+KCQ,Chignik Lake Airport,Chignik Lake,56.255,-158.775278,America/Anchorage,Alaska,2,1e-05,296,218,True
+SKK,Shaktoolik Airport,Shaktoolik,64.37110138,-161.223999,America/Anchorage,Alaska,3,0.0,225,247,True
+SYB,Seal Bay Seaplane Base,Seal Bay,58.166667,-152.5,America/Anchorage,Alaska,2,0.00327,296,69,True
+KYK,Karluk Airport,Karluk,57.5671005249,-154.449996948,America/Anchorage,Alaska,1,0.0,458,247,True
+WBB,Stebbins Airport,Stebbins,63.515833,-162.278056,America/Anchorage,Alaska,4,0.00025,189,141,True
+KPB,Point Baker Seaplane Base,Point Baker,56.351944,-133.6225,America/Anchorage,Alaska,2,0.0,296,247,True
+PPV,Port Protection Seaplane Base,Port Protection,56.328889,-133.61,America/Anchorage,Alaska,2,0.0,296,247,True
+KPR,Port Williams Seaplane Base,Port Williams,58.49,-152.582222,America/Anchorage,Alaska,1,0.0,458,247,True
+MOU,Mountain Village Airport,Mountain Village,62.095401763916016,-163.6820068359375,America/Anchorage,Alaska,2,2e-05,296,204,True
+KWF,Waterfall Seaplane Base,Waterfall,55.296389,-133.243333,,Alaska,1,0.0,458,247,True
+MTM,Metlakatla Seaplane Base,Metakatla,55.131001,-131.578003,America/Anchorage,Alaska,1,0.0,458,247,True
+WRG,Wrangell Airport,Wrangell,56.48429871,-132.3699951,America/Anchorage,Alaska,2,3e-05,296,194,True
+KTS,Brevig Mission Airport,Brevig Mission,65.3312988281,-166.466003418,America/Anchorage,Alaska,3,0.0,225,247,True
+TLA,Teller Airport,Teller,65.2404022217,-166.339004517,America/Anchorage,Alaska,2,0.0,296,247,True
+WAA,Wales Airport,Wales,65.622593,-168.095,America/Anchorage,Alaska,4,1e-05,189,218,True
+KVL,Kivalina Airport,Kivalina,67.73619842529297,-164.56300354003906,America/Anchorage,Alaska,3,1e-05,225,218,True
+PHO,Point Hope Airport,Point Hope,68.3488,-166.799,America/Anchorage,Alaska,4,0.00012,189,165,True
+WTK,Noatak Airport,Noatak,67.56610107421875,-162.97500610351562,America/Anchorage,Alaska,2,0.0,296,247,True
+TOG,Togiak Airport,Togiak Village,59.05279922485352,-160.39700317382812,America/Anchorage,Alaska,1,0.0,458,247,True
+SCK,Stockton Metropolitan Airport,Stockton,37.894199371338,-121.2379989624,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+SMX,Santa Maria Pub/Capt G Allan Hancock Field,Santa Maria,34.89889908,-120.4570007,America/Los_Angeles,Lower 48,2,0.0,296,247,True
+MCE,Merced Regional Macready Field,Merced,37.28469849,-120.5139999,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+MMH,Mammoth Yosemite Airport,Mammoth Lakes,37.62409973,-118.8379974,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+PRC,Ernest A. Love Field,Prescott,34.65449905,-112.4199982,America/Phoenix,Lower 48,1,0.0,458,247,True
+SBP,San Luis County Regional Airport,San Luis Obispo,35.2368011475,-120.641998291,America/Los_Angeles,Lower 48,3,0.0,225,247,True
+STS,Charles M. Schulz Sonoma County Airport,Santa Rosa,38.50899887,-122.8130035,America/Los_Angeles,Lower 48,4,0.0,189,247,True
+VIS,Visalia Municipal Airport,Visalia,36.3186988831,-119.392997742,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+YUM,Yuma MCAS/Yuma International Airport,Yuma,32.65660095,-114.6060028,America/Phoenix,Lower 48,2,0.0,296,247,True
+LCK,Rickenbacker International Airport,Columbus,39.813801,-82.927803,America/New_York,Lower 48,2,0.0,296,247,True
+LMT,Crater Lake-Klamath Regional Airport,Klamath Falls,42.156101,-121.733002,America/Los_Angeles,Lower 48,2,0.0,296,247,True
+LPS,Lopez Island Airport,Lopez,48.4838981628418,-122.93800354003906,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+LSE,La Crosse Municipal Airport,La Crosse,43.879002,-91.256699,America/Chicago,Lower 48,2,0.0,296,247,True
+LUR,Cape Lisburne LRRS Airport,Cape Lisburne,68.87509918,-166.1100006,America/Anchorage,Alaska,2,0.0,296,247,True
+PUW,Pullman Moscow Regional Airport,Pullman,46.7439,-117.110001,America/Los_Angeles,Lower 48,2,0.0,296,247,True
+MBL,Manistee Co Blacker Airport,Manistee,44.2723999,-86.24690247,America/New_York,Lower 48,1,0.0,458,247,True
+NIB,Nikolai Airport,Nikolai,63.0186,-154.358002,America/Anchorage,Alaska,1,0.0,458,247,True
+TCT,Takotna Airport,Takotna,62.971944,-156.082778,America/Anchorage,Alaska,2,0.0,296,247,True
+TLJ,Tatalina LRRS Airport,Tatalina,62.8944015503,-155.977005005,America/Anchorage,Alaska,2,0.0,296,247,True
+SLN,Salina Municipal Airport,Salina,38.79100036621094,-97.6521987915039,America/Chicago,Lower 48,1,0.0,458,247,True
+MKG,Muskegon County Airport,Muskegon,43.16949844,-86.23819733,America/New_York,Lower 48,1,0.0,458,247,True
+MOD,Modesto City Co-Harry Sham Field,Modesto,37.62580109,-120.9540024,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+MUE,Waimea Kohala Airport,Kamuela,20.001300811767575,-155.66799926757812,Pacific/Honolulu,Hawaii/Pacific,1,0.0,458,247,True
+MWA,Williamson County Regional Airport,Marion,37.75500107,-89.01110077,America/Chicago,Lower 48,1,0.0,458,247,True
+YNG,Youngstown Warren Regional Airport,Youngstown,41.26070023,-80.67910004,America/New_York,Lower 48,4,2e-05,189,204,True
+TNK,Tununak Airport,Tununak,60.575556,-165.271667,America/Anchorage,Alaska,3,1e-05,225,218,True
+SHH,Shishmaref Airport,Shishmaref,66.249604,-166.089112,America/Anchorage,Alaska,2,0.0,296,247,True
+TNC,Tin City Long Range Radar Station Airport,Tin City,65.56310272,-167.9219971,America/Anchorage,Alaska,2,0.0,296,247,True
+PAH,Barkley Regional Airport,PADUCAH,37.06079864501953,-88.7738037109375,America/Chicago,Lower 48,1,0.0,458,247,True
+SUX,Sioux Gateway Col. Bud Day Field,Sioux City,42.40259933,-96.38439941,America/Chicago,Lower 48,1,0.0,458,247,True
+TOL,Toledo Express Airport,Toledo,41.58679962,-83.80780029,America/New_York,Lower 48,4,0.00012,189,165,True
+OTH,Southwest Oregon Regional Airport,North Bend,43.41709899902344,-124.24600219726562,America/Los_Angeles,Lower 48,2,0.0,296,247,True
+WLK,Selawik Airport,Selawik,66.60009766,-159.9859924,America/Anchorage,Alaska,1,0.0,458,247,True
+OWB,Owensboro Daviess County Airport,Owensboro,37.74010086,-87.16680145,America/Chicago,Lower 48,2,2e-05,296,204,True
+PDT,Eastern Oregon Regional At Pendleton Airport,Pendleton,45.695098877,-118.841003418,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+SVC,Grant County Airport,Silver City,32.6365,-108.156,America/Denver,Lower 48,1,0.0,458,247,True
+PIH,Pocatello Regional Airport,Pocatello,42.9098014831543,-112.59600067138672,America/Denver,Lower 48,1,0.0,458,247,True
+PSM,Portsmouth International at Pease Airport,Portsmouth,43.0778999329,-70.8233032227,America/New_York,Lower 48,1,0.0,458,247,True
+RDD,Redding Municipal Airport,Redding,40.50899887,-122.2929993,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+YKM,Yakima Air Terminal McAllister Field,Yakima,46.56819916,-120.5439987,America/Los_Angeles,Lower 48,1,0.0,458,247,True
+TWF,Joslin Field Magic Valley Regional Airport,Twin Falls,42.4818,-114.487999,America/Denver,Lower 48,1,0.0,458,247,True
+VEL,Vernal Regional Airport,Vernal,40.4408989,-109.5100021,America/Denver,Lower 48,1,0.0,458,247,True
+SMK,St Michael Airport,St. Michael,63.49010086,-162.1100006,America/Anchorage,Alaska,2,0.0,296,247,True
+TBN,Waynesville-St. Robert Regional Forney field,Fort Leonardwood,37.74160004,-92.14070129,America/Chicago,Lower 48,1,0.0,458,247,True
+UIN,Quincy Regional Baldwin Field,Quincy,39.94269943,-91.19460297,America/Chicago,Lower 48,1,0.0,458,247,True
+UST,Northeast Florida Regional Airport,St. Augustine Airport,29.9592,-81.339798,America/New_York,Lower 48,1,0.0,458,247,True

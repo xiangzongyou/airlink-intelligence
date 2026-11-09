@@ -1,0 +1,606 @@
+trips_total,trips_lost,trips_detoured,mean_extra_connections,airports_cut_off,cut_off_list,iata,pct_trips_lost,pct_trips_detoured,main_effect
+177322,0,0,0.0,0,,ABE,0.0,0.0,No change
+177322,6489,907,1.0,11,ABY BQK CSG DHN GLH GTR MEI MSL PIB TUP VLD,ATL,3.659,0.511,Loss of access
+177322,1782,420,1.0,3,FLO LYH PGV,CLT,1.005,0.237,Loss of access
+177322,1782,187,1.0,3,CIU ESC PLN,DTW,1.005,0.105,Loss of access
+177322,0,307,1.01,0,,MYR,0.0,0.173,Detours only
+177322,4732,5919,1.04,8,ALO CMX DBQ EAU FOE MKG PAH SUX,ORD,2.669,3.338,Loss of access
+177322,0,9,1.0,0,,PGD,0.0,0.005,Detours only
+177322,1189,56,1.0,2,HVN IPT,PHL,0.671,0.032,Loss of access
+177322,0,16,1.19,0,,PIE,0.0,0.009,Detours only
+177322,1189,345,1.07,2,BLV PSM,SFB,0.671,0.195,Loss of access
+177322,0,0,0.0,0,,ABI,0.0,0.0,No change
+177322,6490,516,1.0,11,ABI ACT BPT GCK GGG JLN LAW ROW SJT SPS TXK,DFW,3.66,0.291,Loss of access
+177322,0,0,0.0,0,,ABL,0.0,0.0,No change
+177322,0,0,0.0,0,,OBU,0.0,0.0,No change
+177322,4727,2293,2.0,8,ABL BKC DRG IAN OBU ORV SHG WLK,OTZ,2.666,1.293,Loss of access
+177322,0,0,0.0,0,,SHG,0.0,0.0,No change
+177322,1189,0,0.0,2,CNM LAM,ABQ,0.671,0.0,Loss of access
+177322,0,0,0.0,0,,BWI,0.0,0.0,No change
+177322,0,0,0.0,0,,CNM,0.0,0.0,No change
+177322,0,94,1.0,0,,DAL,0.0,0.053,Detours only
+177322,11131,3671,1.22,19,AIA BFF CDR CEZ CYS DDC EAR EGE GUC HDN LAR LBF LBL MCK MTJ PUB RIW SHR WRL,DEN,6.277,2.07,Loss of access
+177322,0,17,1.0,0,,HOU,0.0,0.01,Detours only
+177322,1189,101,1.0,2,HOB VCT,IAH,0.671,0.057,Loss of access
+177322,0,10,1.0,0,,JFK,0.0,0.006,Detours only
+177322,0,0,0.0,0,,LAM,0.0,0.0,No change
+177322,595,1555,1.1,1,SCK,LAS,0.336,0.877,Loss of access
+177322,2965,977,1.01,5,CLD MCE MMH PRC VIS,LAX,1.672,0.551,Loss of access
+177322,595,130,1.0,1,SLN,MCI,0.336,0.073,Loss of access
+177322,595,33,1.0,1,MBL,MDW,0.336,0.019,Loss of access
+177322,4142,935,1.03,7,ABR BJI BRD HIB IMT INL RHI,MSP,2.336,0.527,Loss of access
+177322,0,14,1.0,0,,OAK,0.0,0.008,Detours only
+177322,595,278,1.0,1,PDT,PDX,0.336,0.157,Loss of access
+177322,1189,535,1.01,2,FLG SVC,PHX,0.671,0.302,Loss of access
+177322,0,225,1.0,0,,SAN,0.0,0.127,Detours only
+177322,5304,13648,1.18,9,ALW DHB EAT FBS LKE LPS RCE WSX YKM,SEA,2.991,7.697,Loss of access
+177322,1782,764,1.12,3,CIC MOD RDD,SFO,1.005,0.431,Loss of access
+177322,4144,62,1.0,7,BTM CDC CNY EKO PIH TWF VEL,SLC,2.337,0.035,Loss of access
+177322,0,0,0.0,0,,ABR,0.0,0.0,No change
+177322,0,0,0.0,0,,ABY,0.0,0.0,No change
+177322,595,0,0.0,1,TEB,ACK,0.336,0.0,Loss of access
+177322,4144,1436,1.0,7,AUG BHB PQI PVC RKD RUT SLK,BOS,2.337,0.81,Loss of access
+177322,0,0,0.0,0,,EWB,0.0,0.0,No change
+177322,0,301,1.0,0,,HPN,0.0,0.17,Detours only
+177322,0,0,0.0,0,,HYA,0.0,0.0,No change
+177322,0,0,0.0,0,,MVY,0.0,0.0,No change
+177322,0,0,0.0,0,,TEB,0.0,0.0,No change
+177322,0,0,0.0,0,,ACT,0.0,0.0,No change
+177322,0,0,0.0,0,,ACV,0.0,0.0,No change
+177322,0,0,0.0,0,,CEC,0.0,0.0,No change
+177322,0,0,0.0,0,,SMF,0.0,0.0,No change
+177322,0,0,0.0,0,,ACY,0.0,0.0,No change
+177322,0,237,1.0,0,,FLL,0.0,0.134,Detours only
+177322,0,82,1.0,0,,MCO,0.0,0.046,Detours only
+177322,0,0,0.0,0,,RSW,0.0,0.0,No change
+177322,0,0,0.0,0,,TPA,0.0,0.0,No change
+177322,0,0,0.0,0,,ADK,0.0,0.0,No change
+177322,20651,42447,6.62,36,ADK ADQ AKK AKN AOS CDB DLG EGX ENA HOM IGG ILI KCG KCL KCQ KFP KKB KLL KLN KOZ KPR KPV KVC KYK KZB NLG OLH ORI PIP PTH SDP SNP STG SYB VDZ WSN,ANC,11.646,23.938,Loss of access
+177322,6484,0,0.0,11,AKK AOS KKB KLN KOZ KPR KYK KZB OLH ORI SYB,ADQ,3.657,0.0,Loss of access
+177322,0,0,0.0,0,,AKK,0.0,0.0,No change
+177322,595,0,0.0,1,KZB,AOS,0.336,0.0,Loss of access
+177322,1188,0,0.0,2,KPR SYB,KKB,0.67,0.0,Loss of access
+177322,595,0,0.0,1,KYK,KLN,0.336,0.0,Loss of access
+177322,0,0,0.0,0,,KOZ,0.0,0.0,No change
+177322,0,0,0.0,0,,OLH,0.0,0.0,No change
+177322,0,0,0.0,0,,ORI,0.0,0.0,No change
+177322,0,0,0.0,0,,AET,0.0,0.0,No change
+177322,0,1,1.0,0,,BTT,0.0,0.001,Detours only
+177322,11641,2868,1.77,20,AET AKP BTT CEM CXF GAL HSL HUS IRC KAL KYU LMA MLY MNT NUL RBY RMP SVS TAL WBQ,FAI,6.565,1.617,Loss of access
+177322,0,1,1.0,0,,HUS,0.0,0.001,Detours only
+177322,0,0,0.0,0,,AEX,0.0,0.0,No change
+177322,0,0,0.0,0,,AGN,0.0,0.0,No change
+177322,5901,909,1.16,10,AGN ELV EXI GST HNH HNS KAE PEC SGY TKE,JNU,3.328,0.513,Loss of access
+177322,0,0,0.0,0,,TKE,0.0,0.0,No change
+177322,0,0,0.0,0,,AGS,0.0,0.0,No change
+177322,0,22,1.0,0,,DCA,0.0,0.012,Detours only
+177322,0,0,0.0,0,,AHN,0.0,0.0,No change
+177322,595,59,1.0,1,AHN,BNA,0.336,0.033,Loss of access
+177322,0,0,0.0,0,,AIA,0.0,0.0,No change
+177322,0,0,0.0,0,,CDR,0.0,0.0,No change
+177322,0,0,0.0,0,,AIN,0.0,0.0,No change
+177322,0,0,0.0,0,,ATK,0.0,0.0,No change
+177322,1188,567,1.05,2,AIN ATK,BRW,0.67,0.32,Loss of access
+177915,0,0,0.0,0,,AKB,0.0,0.0,No change
+177915,3,0,0.0,0,,DUT,0.002,0.0,Loss of access
+177322,0,1,1.0,0,,AKI,0.0,0.001,Detours only
+177322,0,1,1.0,0,,KKI,0.0,0.001,Detours only
+177322,0,593,1.0,0,,TLT,0.0,0.334,Detours only
+177322,5897,1,1.0,10,EGX IGG KCG KCL KCQ KLL KPV PIP PTH WSN,AKN,3.326,0.001,Loss of access
+177322,0,0,0.0,0,,DLG,0.0,0.0,No change
+177322,0,0,0.0,0,,EGX,0.0,0.0,No change
+177322,0,0,0.0,0,,IGG,0.0,0.0,No change
+177322,0,593,1.0,0,,KCG,0.0,0.334,Detours only
+177322,0,0,0.0,0,,KLL,0.0,0.0,No change
+177322,0,593,1.0,0,,KPV,0.0,0.334,Detours only
+177322,0,0,0.0,0,,PIP,0.0,0.0,No change
+177322,0,0,0.0,0,,PTH,0.0,0.0,No change
+177322,0,0,0.0,0,,WSN,0.0,0.0,No change
+177322,0,0,0.0,0,,AKP,0.0,0.0,No change
+177322,0,0,0.0,0,,CXF,0.0,0.0,No change
+177322,1189,0,0.0,2,MSS OGS,ALB,0.671,0.0,Loss of access
+177322,2963,1,1.0,5,BFD DUJ FKL JHW PKB,CLE,1.671,0.001,Loss of access
+177322,0,6,1.0,0,,EWR,0.0,0.003,Detours only
+177322,2963,1589,1.37,5,AOO BKW JST LNS SHD,IAD,1.671,0.896,Loss of access
+177322,0,0,0.0,0,,MSS,0.0,0.0,No change
+177322,0,0,0.0,0,,OGS,0.0,0.0,No change
+177322,0,0,0.0,0,,ALO,0.0,0.0,No change
+177322,0,0,0.0,0,,ALS,0.0,0.0,No change
+177322,0,1,1.0,0,,FMN,0.0,0.001,Detours only
+177322,0,0,0.0,0,,ALW,0.0,0.0,No change
+177322,0,0,0.0,0,,AMA,0.0,0.0,No change
+177322,5303,10,1.0,9,ANV CHU CKD HCR KGX RDV SHX SLQ SRV,ANI,2.991,0.006,Loss of access
+177322,15677,1654,1.01,27,AKI ATT CYF EEK GNU HPB KKH KKI KPN KUK KWK KWN KWT MYU NME NUP OOK PKA PTU SCM TLT TNK TOG VAK WNA WTL WWT,BET,8.841,0.933,Loss of access
+177322,1782,0,0.0,3,KFP KVC NLG,CDB,1.005,0.0,Loss of access
+177322,0,0,0.0,0,,CDV,0.0,0.0,No change
+177322,0,0,0.0,0,,ENA,0.0,0.0,No change
+177322,0,656,1.0,0,,HNL,0.0,0.37,Detours only
+177322,0,0,0.0,0,,HOM,0.0,0.0,No change
+177322,0,0,0.0,0,,ILI,0.0,0.0,No change
+177322,0,1653,1.34,0,,KSM,0.0,0.932,Detours only
+177322,1781,0,0.0,3,NIB TCT TLJ,MCG,1.004,0.0,Loss of access
+177322,4133,1794,2.0,7,GAM KTS SHH SVA TLA TNC WAA,OME,2.331,1.012,Loss of access
+177322,0,359,1.0,0,,SCC,0.0,0.202,Detours only
+177322,0,0,0.0,0,,SDP,0.0,0.0,No change
+177322,0,0,0.0,0,,SNP,0.0,0.0,No change
+177322,0,0,0.0,0,,STG,0.0,0.0,No change
+177322,0,564,1.0,0,,UNK,0.0,0.318,Detours only
+177322,0,0,0.0,0,,VDZ,0.0,0.0,No change
+177322,0,0,0.0,0,,CHU,0.0,0.0,No change
+177322,0,593,1.0,0,,HCR,0.0,0.334,Detours only
+177322,0,0,0.0,0,,KLG,0.0,0.0,No change
+177322,0,10,1.0,0,,RSH,0.0,0.006,Detours only
+177322,0,593,1.0,0,,SHX,0.0,0.334,Detours only
+177322,0,594,1.0,0,,SLQ,0.0,0.335,Detours only
+177322,0,0,0.0,0,,SRV,0.0,0.0,No change
+177322,0,1,1.0,0,,ANV,0.0,0.001,Detours only
+177322,0,1,1.0,0,,KGX,0.0,0.001,Detours only
+177322,0,0,0.0,0,,AOO,0.0,0.0,No change
+177322,0,0,0.0,0,,JST,0.0,0.0,No change
+177322,0,0,0.0,0,,KZB,0.0,0.0,No change
+177322,0,0,0.0,0,,APF,0.0,0.0,No change
+177322,595,304,1.0,1,APF,MIA,0.336,0.171,Loss of access
+177322,0,0,0.0,0,,APN,0.0,0.0,No change
+177322,0,0,0.0,0,,ARC,0.0,0.0,No change
+177322,595,0,0.0,1,ARC,VEE,0.336,0.0,Loss of access
+177322,0,0,0.0,0,,ART,0.0,0.0,No change
+177322,0,0,0.0,0,,ASE,0.0,0.0,No change
+177322,0,0,0.0,0,,ATW,0.0,0.0,No change
+177322,0,1,1.0,0,,AUS,0.0,0.001,Detours only
+177322,0,0,0.0,0,,AVL,0.0,0.0,No change
+177322,0,0,0.0,0,,AVP,0.0,0.0,No change
+177322,0,0,0.0,0,,AZO,0.0,0.0,No change
+177322,0,0,0.0,0,,BDL,0.0,0.0,No change
+177322,0,0,0.0,0,,BHM,0.0,0.0,No change
+177322,0,0,0.0,0,,BMI,0.0,0.0,No change
+177322,0,0,0.0,0,,BQK,0.0,0.0,No change
+177322,0,0,0.0,0,,BTR,0.0,0.0,No change
+177322,0,0,0.0,0,,BTV,0.0,0.0,No change
+177322,0,0,0.0,0,,BUF,0.0,0.0,No change
+177322,0,0,0.0,0,,CAE,0.0,0.0,No change
+177322,0,0,0.0,0,,CAK,0.0,0.0,No change
+177322,0,0,0.0,0,,CHA,0.0,0.0,No change
+177322,0,0,0.0,0,,CHO,0.0,0.0,No change
+177322,0,0,0.0,0,,CHS,0.0,0.0,No change
+177322,0,0,0.0,0,,CID,0.0,0.0,No change
+177322,0,0,0.0,0,,CMH,0.0,0.0,No change
+177322,0,0,0.0,0,,COS,0.0,0.0,No change
+177322,0,0,0.0,0,,CRW,0.0,0.0,No change
+177322,0,0,0.0,0,,CSG,0.0,0.0,No change
+177322,0,514,1.01,0,,CVG,0.0,0.29,Detours only
+177322,0,0,0.0,0,,DAB,0.0,0.0,No change
+177322,0,0,0.0,0,,DAY,0.0,0.0,No change
+177322,0,0,0.0,0,,DHN,0.0,0.0,No change
+177322,0,10,1.0,0,,DSM,0.0,0.006,Detours only
+177322,0,0,0.0,0,,ECP,0.0,0.0,No change
+177322,0,0,0.0,0,,ELP,0.0,0.0,No change
+177322,0,0,0.0,0,,EVV,0.0,0.0,No change
+177322,0,0,0.0,0,,EWN,0.0,0.0,No change
+177322,0,0,0.0,0,,EYW,0.0,0.0,No change
+177322,0,9,1.0,0,,FAR,0.0,0.005,Detours only
+177322,0,0,0.0,0,,FAY,0.0,0.0,No change
+177322,0,0,0.0,0,,FNT,0.0,0.0,No change
+177322,0,0,0.0,0,,FSD,0.0,0.0,No change
+177322,0,0,0.0,0,,FSM,0.0,0.0,No change
+177322,0,2,1.0,0,,FWA,0.0,0.001,Detours only
+177322,0,0,0.0,0,,GNV,0.0,0.0,No change
+177322,0,0,0.0,0,,GPT,0.0,0.0,No change
+177322,0,0,0.0,0,,GRB,0.0,0.0,No change
+177322,0,0,0.0,0,,GRK,0.0,0.0,No change
+177322,0,12,1.0,0,,GRR,0.0,0.007,Detours only
+177322,0,2,1.0,0,,GSO,0.0,0.001,Detours only
+177322,0,10,1.0,0,,GSP,0.0,0.006,Detours only
+177322,0,0,0.0,0,,GTR,0.0,0.0,No change
+177322,0,0,0.0,0,,HSV,0.0,0.0,No change
+177322,0,2,1.0,0,,ICT,0.0,0.001,Detours only
+177322,0,0,0.0,0,,ILM,0.0,0.0,No change
+177322,0,0,0.0,0,,IND,0.0,0.0,No change
+177322,0,0,0.0,0,,JAN,0.0,0.0,No change
+177322,0,0,0.0,0,,JAX,0.0,0.0,No change
+177322,0,0,0.0,0,,LAN,0.0,0.0,No change
+177322,0,0,0.0,0,,LEX,0.0,0.0,No change
+177322,0,0,0.0,0,,LFT,0.0,0.0,No change
+177322,0,1,1.0,0,,LGA,0.0,0.001,Detours only
+177322,0,0,0.0,0,,LIT,0.0,0.0,No change
+177322,0,0,0.0,0,,LWB,0.0,0.0,No change
+177322,0,0,0.0,0,,MBS,0.0,0.0,No change
+177322,0,0,0.0,0,,MCN,0.0,0.0,No change
+177322,0,0,0.0,0,,MDT,0.0,0.0,No change
+177322,0,0,0.0,0,,MEI,0.0,0.0,No change
+177322,0,641,1.21,0,,MEM,0.0,0.361,Detours only
+177322,0,0,0.0,0,,MGM,0.0,0.0,No change
+177322,0,0,0.0,0,,MHT,0.0,0.0,No change
+177322,0,0,0.0,0,,MKE,0.0,0.0,No change
+177322,0,0,0.0,0,,MLB,0.0,0.0,No change
+177322,0,0,0.0,0,,MLI,0.0,0.0,No change
+177322,0,0,0.0,0,,MLU,0.0,0.0,No change
+177322,0,0,0.0,0,,MOB,0.0,0.0,No change
+177322,0,0,0.0,0,,MSL,0.0,0.0,No change
+177322,0,0,0.0,0,,MSN,0.0,0.0,No change
+177322,0,0,0.0,0,,MSY,0.0,0.0,No change
+177322,0,0,0.0,0,,OAJ,0.0,0.0,No change
+177322,0,12,1.0,0,,OKC,0.0,0.007,Detours only
+177322,0,0,0.0,0,,OMA,0.0,0.0,No change
+177322,0,0,0.0,0,,ORF,0.0,0.0,No change
+177322,0,0,0.0,0,,PBI,0.0,0.0,No change
+177322,0,0,0.0,0,,PHF,0.0,0.0,No change
+177322,0,0,0.0,0,,PIA,0.0,0.0,No change
+177322,0,0,0.0,0,,PIB,0.0,0.0,No change
+177322,0,0,0.0,0,,PIT,0.0,0.0,No change
+177322,0,0,0.0,0,,PNS,0.0,0.0,No change
+177322,0,0,0.0,0,,PVD,0.0,0.0,No change
+177322,0,0,0.0,0,,PWM,0.0,0.0,No change
+177322,0,0,0.0,0,,RDU,0.0,0.0,No change
+177322,0,0,0.0,0,,RIC,0.0,0.0,No change
+177322,0,0,0.0,0,,ROA,0.0,0.0,No change
+177322,0,0,0.0,0,,ROC,0.0,0.0,No change
+177322,0,0,0.0,0,,SAT,0.0,0.0,No change
+177322,0,0,0.0,0,,SAV,0.0,0.0,No change
+177322,0,0,0.0,0,,SBN,0.0,0.0,No change
+177322,0,0,0.0,0,,SDF,0.0,0.0,No change
+177322,0,0,0.0,0,,SGF,0.0,0.0,No change
+177322,0,0,0.0,0,,SHV,0.0,0.0,No change
+177322,0,0,0.0,0,,SJC,0.0,0.0,No change
+177322,0,1,1.0,0,,SNA,0.0,0.001,Detours only
+177322,0,0,0.0,0,,SRQ,0.0,0.0,No change
+177322,3555,522,1.01,6,CGI IRK JBR MWA TBN UIN,STL,2.005,0.294,Loss of access
+177322,0,1,1.0,0,,SYR,0.0,0.001,Detours only
+177322,0,0,0.0,0,,TLH,0.0,0.0,No change
+177322,0,0,0.0,0,,TRI,0.0,0.0,No change
+177322,595,0,0.0,1,UST,TTN,0.336,0.0,Loss of access
+177322,0,0,0.0,0,,TUL,0.0,0.0,No change
+177322,595,0,0.0,1,GLH,TUP,0.336,0.0,Loss of access
+177322,0,0,0.0,0,,TUS,0.0,0.0,No change
+177322,0,0,0.0,0,,TYS,0.0,0.0,No change
+177322,0,0,0.0,0,,VLD,0.0,0.0,No change
+177322,0,0,0.0,0,,VPS,0.0,0.0,No change
+177322,0,0,0.0,0,,XNA,0.0,0.0,No change
+177322,0,0,0.0,0,,ATT,0.0,0.0,No change
+177322,0,0,0.0,0,,KUK,0.0,0.0,No change
+177322,0,0,0.0,0,,NUP,0.0,0.0,No change
+177322,595,58,1.0,1,OGD,AZA,0.336,0.033,Loss of access
+177322,0,0,0.0,0,,ATY,0.0,0.0,No change
+177322,595,0,0.0,1,HON,PIR,0.336,0.0,Loss of access
+177322,0,0,0.0,0,,AUG,0.0,0.0,No change
+177322,0,1,1.0,0,,AUK,0.0,0.001,Detours only
+177322,0,66,1.47,0,,EMK,0.0,0.037,Detours only
+177322,0,2,1.0,0,,SXP,0.0,0.001,Detours only
+177322,0,0,0.0,0,,HRL,0.0,0.0,No change
+177322,0,0,0.0,0,,LBB,0.0,0.0,No change
+177322,0,0,0.0,0,,LGB,0.0,0.0,No change
+177322,2965,0,0.0,5,GDV GGW HVR OLF SDY,BIL,1.672,0.0,Loss of access
+177322,0,0,0.0,0,,BIS,0.0,0.0,No change
+177322,0,0,0.0,0,,BLI,0.0,0.0,No change
+177322,0,0,0.0,0,,BZN,0.0,0.0,No change
+177322,0,0,0.0,0,,DLH,0.0,0.0,No change
+177322,0,0,0.0,0,,EUG,0.0,0.0,No change
+177322,595,0,0.0,1,TVF,GFK,0.336,0.0,Loss of access
+177322,0,0,0.0,0,,GRI,0.0,0.0,No change
+177322,0,2,1.0,0,,GTF,0.0,0.001,Detours only
+177322,0,0,0.0,0,,IDA,0.0,0.0,No change
+177322,0,0,0.0,0,,MOT,0.0,0.0,No change
+177322,0,0,0.0,0,,MSO,0.0,0.0,No change
+177322,0,0,0.0,0,,OGD,0.0,0.0,No change
+177322,0,0,0.0,0,,PSC,0.0,0.0,No change
+177322,0,0,0.0,0,,PVU,0.0,0.0,No change
+177322,0,0,0.0,0,,RAP,0.0,0.0,No change
+177322,0,0,0.0,0,,RFD,0.0,0.0,No change
+177322,0,0,0.0,0,,RST,0.0,0.0,No change
+177322,0,0,0.0,0,,STC,0.0,0.0,No change
+177322,0,0,0.0,0,,CYF,0.0,0.0,No change
+177322,0,0,0.0,0,,EEK,0.0,0.0,No change
+177322,0,0,0.0,0,,GNU,0.0,0.0,No change
+177322,0,0,0.0,0,,HPB,0.0,0.0,No change
+177322,0,0,0.0,0,,KKH,0.0,0.0,No change
+177322,0,0,0.0,0,,KPN,0.0,0.0,No change
+177322,0,0,0.0,0,,KWK,0.0,0.0,No change
+177322,595,0,0.0,1,TOG,KWN,0.336,0.0,Loss of access
+177322,0,593,1.0,0,,KWT,0.0,0.334,Detours only
+177322,0,0,0.0,0,,MLL,0.0,0.0,No change
+177322,0,0,0.0,0,,MYU,0.0,0.0,No change
+177322,0,0,0.0,0,,NME,0.0,0.0,No change
+177322,0,1,1.0,0,,OOK,0.0,0.001,Detours only
+177322,0,0,0.0,0,,PKA,0.0,0.0,No change
+177322,0,31,1.03,0,,PQS,0.0,0.017,Detours only
+177322,0,0,0.0,0,,PTU,0.0,0.0,No change
+177322,0,0,0.0,0,,SCM,0.0,0.0,No change
+177322,0,0,0.0,0,,VAK,0.0,0.0,No change
+177322,0,0,0.0,0,,WNA,0.0,0.0,No change
+177322,0,0,0.0,0,,WTL,0.0,0.0,No change
+177322,0,0,0.0,0,,WWT,0.0,0.0,No change
+177322,0,0,0.0,0,,BFD,0.0,0.0,No change
+177322,0,0,0.0,0,,JHW,0.0,0.0,No change
+177322,0,0,0.0,0,,BFF,0.0,0.0,No change
+177915,2,0,0.0,0,,BFI,0.001,0.0,Loss of access
+177915,0,0,0.0,0,,CLM,0.0,0.0,No change
+177915,0,0,0.0,0,,ESD,0.0,0.0,No change
+177915,0,0,0.0,0,,FRD,0.0,0.0,No change
+177322,0,0,0.0,0,,BFL,0.0,0.0,No change
+177322,0,0,0.0,0,,BGM,0.0,0.0,No change
+177322,0,0,0.0,0,,BGR,0.0,0.0,No change
+177322,0,0,0.0,0,,BHB,0.0,0.0,No change
+177322,0,0,0.0,0,,GDV,0.0,0.0,No change
+177322,0,0,0.0,0,,GGW,0.0,0.0,No change
+177322,0,0,0.0,0,,HVR,0.0,0.0,No change
+177322,0,0,0.0,0,,OLF,0.0,0.0,No change
+177322,0,0,0.0,0,,SDY,0.0,0.0,No change
+177322,0,0,0.0,0,,BJI,0.0,0.0,No change
+177322,0,0,0.0,0,,BKC,0.0,0.0,No change
+177322,0,0,0.0,0,,DRG,0.0,0.0,No change
+177322,0,0,0.0,0,,BKG,0.0,0.0,No change
+177322,0,0,0.0,0,,BKW,0.0,0.0,No change
+177322,0,0,0.0,0,,SHD,0.0,0.0,No change
+177322,0,0,0.0,0,,PSP,0.0,0.0,No change
+177322,0,0,0.0,0,,BLV,0.0,0.0,No change
+177322,0,0,0.0,0,,MKL,0.0,0.0,No change
+177322,0,0,0.0,0,,BOI,0.0,0.0,No change
+177322,0,0,0.0,0,,GEG,0.0,0.0,No change
+177322,0,0,0.0,0,,LWS,0.0,0.0,No change
+177322,0,2,1.0,0,,ISP,0.0,0.001,Detours only
+177322,0,0,0.0,0,,LEB,0.0,0.0,No change
+177322,0,0,0.0,0,,PBG,0.0,0.0,No change
+177322,0,0,0.0,0,,PQI,0.0,0.0,No change
+177322,0,0,0.0,0,,PVC,0.0,0.0,No change
+177322,0,0,0.0,0,,RKD,0.0,0.0,No change
+177322,0,0,0.0,0,,RUT,0.0,0.0,No change
+177322,0,0,0.0,0,,SLK,0.0,0.0,No change
+177322,0,0,0.0,0,,BPT,0.0,0.0,No change
+177322,0,0,0.0,0,,BRD,0.0,0.0,No change
+177322,0,0,0.0,0,,INL,0.0,0.0,No change
+177322,0,0,0.0,0,,BRL,0.0,0.0,No change
+177322,0,0,0.0,0,,BRO,0.0,0.0,No change
+177322,0,0,0.0,0,,NUI,0.0,0.0,No change
+177322,0,4,1.0,0,,PIZ,0.0,0.002,Detours only
+177322,0,0,0.0,0,,BTI,0.0,0.0,No change
+177322,1188,2,1.0,2,ARC VEE,FYU,0.67,0.001,Loss of access
+177322,0,0,0.0,0,,BTM,0.0,0.0,No change
+177322,0,0,0.0,0,,BUR,0.0,0.0,No change
+177322,0,0,0.0,0,,IPL,0.0,0.0,No change
+177322,0,0,0.0,0,,KFP,0.0,0.0,No change
+177322,0,0,0.0,0,,KVC,0.0,0.0,No change
+177322,0,0,0.0,0,,NLG,0.0,0.0,No change
+177322,0,0,0.0,0,,CDC,0.0,0.0,No change
+177322,0,0,0.0,0,,YAK,0.0,0.0,No change
+177322,0,0,0.0,0,,CEM,0.0,0.0,No change
+177322,0,0,0.0,0,,IRC,0.0,0.0,No change
+177322,0,0,0.0,0,,CEZ,0.0,0.0,No change
+177322,0,0,0.0,0,,CGA,0.0,0.0,No change
+177322,0,0,0.0,0,,HYL,0.0,0.0,No change
+177322,0,0,0.0,0,,KLW,0.0,0.0,No change
+177322,0,0,0.0,0,,KTB,0.0,0.0,No change
+177322,6482,445,1.0,11,CGA HYG HYL KCC KLW KPB KTB KWF MTM PPV WWP,KTN,3.655,0.251,Loss of access
+177322,0,0,0.0,0,,CGI,0.0,0.0,No change
+177322,0,1,1.0,0,,CKD,0.0,0.001,Detours only
+177322,0,0,0.0,0,,CIC,0.0,0.0,No change
+177322,0,0,0.0,0,,CIK,0.0,0.0,No change
+177322,0,0,0.0,0,,CIU,0.0,0.0,No change
+177322,0,5,1.0,0,,CKB,0.0,0.003,Detours only
+177322,0,0,0.0,0,,MGW,0.0,0.0,No change
+177322,0,0,0.0,0,,RDV,0.0,0.0,No change
+177322,0,0,0.0,0,,CLD,0.0,0.0,No change
+177322,0,0,0.0,0,,DUJ,0.0,0.0,No change
+177322,0,0,0.0,0,,ERI,0.0,0.0,No change
+177322,0,0,0.0,0,,FKL,0.0,0.0,No change
+177322,0,0,0.0,0,,PKB,0.0,0.0,No change
+177322,0,0,0.0,0,,CLL,0.0,0.0,No change
+177322,0,0,0.0,0,,FLO,0.0,0.0,No change
+177322,0,0,0.0,0,,HHH,0.0,0.0,No change
+177322,0,0,0.0,0,,HTS,0.0,0.0,No change
+177322,0,2,1.0,0,,LUK,0.0,0.001,Detours only
+177322,0,0,0.0,0,,LYH,0.0,0.0,No change
+177322,0,0,0.0,0,,PGV,0.0,0.0,No change
+177322,0,0,0.0,0,,SBY,0.0,0.0,No change
+177322,0,0,0.0,0,,RNO,0.0,0.0,No change
+177322,0,0,0.0,0,,CMI,0.0,0.0,No change
+177322,0,0,0.0,0,,CMX,0.0,0.0,No change
+177322,0,0,0.0,0,,CNY,0.0,0.0,No change
+177322,0,0,0.0,0,,COD,0.0,0.0,No change
+177322,0,0,0.0,0,,COU,0.0,0.0,No change
+177322,0,0,0.0,0,,CPR,0.0,0.0,No change
+177322,0,0,0.0,0,,CRP,0.0,0.0,No change
+177322,0,0,0.0,0,,MMU,0.0,0.0,No change
+177322,0,0,0.0,0,,CWA,0.0,0.0,No change
+177322,595,0,0.0,1,WRL,CYS,0.336,0.0,Loss of access
+177322,0,0,0.0,0,,WRL,0.0,0.0,No change
+177322,0,1,1.0,0,,ELD,0.0,0.001,Detours only
+177322,0,0,0.0,0,,MAF,0.0,0.0,No change
+177322,0,0,0.0,0,,DBQ,0.0,0.0,No change
+177322,0,0,0.0,0,,DDC,0.0,0.0,No change
+177322,0,0,0.0,0,,LBL,0.0,0.0,No change
+177322,0,0,0.0,0,,DEC,0.0,0.0,No change
+177322,0,0,0.0,0,,DIK,0.0,0.0,No change
+177322,0,0,0.0,0,,DRO,0.0,0.0,No change
+177322,0,0,0.0,0,,EAR,0.0,0.0,No change
+177322,0,0,0.0,0,,EGE,0.0,0.0,No change
+177322,0,0,0.0,0,,FAT,0.0,0.0,No change
+177322,0,0,0.0,0,,FCA,0.0,0.0,No change
+177322,0,0,0.0,0,,GCC,0.0,0.0,No change
+177322,0,0,0.0,0,,GJT,0.0,0.0,No change
+177322,0,0,0.0,0,,GUC,0.0,0.0,No change
+177322,0,0,0.0,0,,HDN,0.0,0.0,No change
+177322,0,0,0.0,0,,HLN,0.0,0.0,No change
+177322,0,0,0.0,0,,ILG,0.0,0.0,No change
+177322,0,0,0.0,0,,ISN,0.0,0.0,No change
+177322,0,0,0.0,0,,JAC,0.0,0.0,No change
+177322,0,0,0.0,0,,KOA,0.0,0.0,No change
+177322,0,0,0.0,0,,LAR,0.0,0.0,No change
+177322,0,0,0.0,0,,LBF,0.0,0.0,No change
+177322,0,0,0.0,0,,LIH,0.0,0.0,No change
+177322,0,0,0.0,0,,LNK,0.0,0.0,No change
+177322,0,0,0.0,0,,MCK,0.0,0.0,No change
+177322,0,0,0.0,0,,MFR,0.0,0.0,No change
+177322,0,0,0.0,0,,MRY,0.0,0.0,No change
+177322,0,0,0.0,0,,MTJ,0.0,0.0,No change
+177322,1189,0,0.0,2,HNM MUE,OGG,0.671,0.0,Loss of access
+177322,0,0,0.0,0,,ONT,0.0,0.0,No change
+177322,0,0,0.0,0,,PGA,0.0,0.0,No change
+177322,0,0,0.0,0,,PUB,0.0,0.0,No change
+177322,0,0,0.0,0,,RDM,0.0,0.0,No change
+177322,0,0,0.0,0,,RIW,0.0,0.0,No change
+177322,0,0,0.0,0,,RKS,0.0,0.0,No change
+177322,0,0,0.0,0,,SAF,0.0,0.0,No change
+177322,0,0,0.0,0,,SBA,0.0,0.0,No change
+177322,0,0,0.0,0,,SGU,0.0,0.0,No change
+177322,0,0,0.0,0,,SHR,0.0,0.0,No change
+177322,0,0,0.0,0,,GCK,0.0,0.0,No change
+177322,0,0,0.0,0,,GGG,0.0,0.0,No change
+177322,0,0,0.0,0,,JLN,0.0,0.0,No change
+177322,0,0,0.0,0,,LAW,0.0,0.0,No change
+177322,0,0,0.0,0,,LCH,0.0,0.0,No change
+177322,0,0,0.0,0,,LRD,0.0,0.0,No change
+177322,0,0,0.0,0,,MFE,0.0,0.0,No change
+177322,0,0,0.0,0,,MHK,0.0,0.0,No change
+177322,0,0,0.0,0,,ROW,0.0,0.0,No change
+177322,0,0,0.0,0,,SJT,0.0,0.0,No change
+177322,0,0,0.0,0,,SPI,0.0,0.0,No change
+177322,0,0,0.0,0,,SPS,0.0,0.0,No change
+177322,0,0,0.0,0,,TXK,0.0,0.0,No change
+177322,0,0,0.0,0,,TYR,0.0,0.0,No change
+177322,1188,0,0.0,2,LPS WSX,DHB,0.67,0.0,Loss of access
+177322,1779,0,0.0,3,DHB LPS WSX,RCE,1.003,0.0,Loss of access
+177322,595,0,0.0,1,LPS,WSX,0.336,0.0,Loss of access
+177322,0,0,0.0,0,,ELM,0.0,0.0,No change
+177322,0,0,0.0,0,,ESC,0.0,0.0,No change
+177322,0,0,0.0,0,,ITH,0.0,0.0,No change
+177322,0,0,0.0,0,,MQT,0.0,0.0,No change
+177322,0,0,0.0,0,,PLN,0.0,0.0,No change
+177322,0,0,0.0,0,,SCE,0.0,0.0,No change
+177322,0,0,0.0,0,,SWF,0.0,0.0,No change
+177322,0,0,0.0,0,,TVC,0.0,0.0,No change
+177915,0,0,0.0,0,,IKO,0.0,0.0,No change
+177915,0,0,0.0,0,,KQA,0.0,0.0,No change
+177322,0,0,0.0,0,,EAT,0.0,0.0,No change
+177322,0,0,0.0,0,,EAU,0.0,0.0,No change
+177322,0,0,0.0,0,,EKO,0.0,0.0,No change
+177322,0,0,0.0,0,,HOT,0.0,0.0,No change
+177322,0,0,0.0,0,,ELI,0.0,0.0,No change
+177322,0,0,0.0,0,,GLV,0.0,0.0,No change
+177322,0,0,0.0,0,,KKA,0.0,0.0,No change
+177322,0,0,0.0,0,,ELV,0.0,0.0,No change
+177322,0,0,0.0,0,,PEC,0.0,0.0,No change
+177322,0,8,1.25,0,,KOT,0.0,0.005,Detours only
+177322,0,0,0.0,0,,EXI,0.0,0.0,No change
+177322,0,589,1.0,0,,GAL,0.0,0.332,Detours only
+177322,0,0,0.0,0,,KBC,0.0,0.0,No change
+177322,0,0,0.0,0,,KYU,0.0,0.0,No change
+177322,0,0,0.0,0,,LMA,0.0,0.0,No change
+177322,0,0,0.0,0,,MLY,0.0,0.0,No change
+177322,0,0,0.0,0,,MNT,0.0,0.0,No change
+177322,0,0,0.0,0,,RBY,0.0,0.0,No change
+177322,0,0,0.0,0,,RMP,0.0,0.0,No change
+177322,0,0,0.0,0,,SVS,0.0,0.0,No change
+177322,0,0,0.0,0,,TAL,0.0,0.0,No change
+177322,0,0,0.0,0,,WBQ,0.0,0.0,No change
+177322,2368,0,0.0,4,DHB LPS RCE WSX,FBS,1.335,0.0,Loss of access
+177322,2955,0,0.0,5,DHB FBS LPS RCE WSX,LKE,1.666,0.0,Loss of access
+177322,0,0,0.0,0,,FLG,0.0,0.0,No change
+177322,0,0,0.0,0,,IAG,0.0,0.0,No change
+177322,0,0,0.0,0,,LBE,0.0,0.0,No change
+177322,0,0,0.0,0,,ORH,0.0,0.0,No change
+177322,0,0,0.0,0,,SOW,0.0,0.0,No change
+177322,0,0,0.0,0,,FOE,0.0,0.0,No change
+177322,0,2,1.0,0,,HSL,0.0,0.001,Detours only
+177322,0,0,0.0,0,,KAL,0.0,0.0,No change
+177322,0,0,0.0,0,,NUL,0.0,0.0,No change
+177322,0,0,0.0,0,,GAM,0.0,0.0,No change
+177322,0,0,0.0,0,,SVA,0.0,0.0,No change
+177322,0,0,0.0,0,,TVF,0.0,0.0,No change
+177322,0,0,0.0,0,,GLH,0.0,0.0,No change
+177322,0,0,0.0,0,,WMO,0.0,0.0,No change
+177322,0,0,0.0,0,,GST,0.0,0.0,No change
+177322,0,0,0.0,0,,HNH,0.0,0.0,No change
+177322,0,0,0.0,0,,HGR,0.0,0.0,No change
+177322,0,0,0.0,0,,HIB,0.0,0.0,No change
+177322,0,0,0.0,0,,ITO,0.0,0.0,No change
+177322,0,0,0.0,0,,JHM,0.0,0.0,No change
+177322,0,0,0.0,0,,LNY,0.0,0.0,No change
+177322,0,0,0.0,0,,MKK,0.0,0.0,No change
+177322,0,0,0.0,0,,HNM,0.0,0.0,No change
+177322,0,0,0.0,0,,HNS,0.0,0.0,No change
+177322,0,0,0.0,0,,SGY,0.0,0.0,No change
+177322,0,0,0.0,0,,HOB,0.0,0.0,No change
+177322,0,0,0.0,0,,HON,0.0,0.0,No change
+177322,0,0,0.0,0,,HRO,0.0,0.0,No change
+177322,0,0,0.0,0,,HVN,0.0,0.0,No change
+177322,0,0,0.0,0,,HYG,0.0,0.0,No change
+177322,0,0,0.0,0,,LNS,0.0,0.0,No change
+177322,0,0,0.0,0,,VCT,0.0,0.0,No change
+177322,0,0,0.0,0,,IAN,0.0,0.0,No change
+177322,0,0,0.0,0,,ORV,0.0,0.0,No change
+177322,0,0,0.0,0,,IGM,0.0,0.0,No change
+177322,0,0,0.0,0,,IMT,0.0,0.0,No change
+177322,0,0,0.0,0,,RHI,0.0,0.0,No change
+177322,0,0,0.0,0,,IPT,0.0,0.0,No change
+177322,0,0,0.0,0,,IRK,0.0,0.0,No change
+177322,0,0,0.0,0,,JBR,0.0,0.0,No change
+177322,0,0,0.0,0,,KAE,0.0,0.0,No change
+177322,0,0,0.0,0,,PSG,0.0,0.0,No change
+177322,0,0,0.0,0,,SIT,0.0,0.0,No change
+177322,595,0,0.0,1,WWP,KCC,0.336,0.0,Loss of access
+177322,0,0,0.0,0,,WWP,0.0,0.0,No change
+177322,0,1,1.0,0,,KCL,0.0,0.001,Detours only
+177322,0,1,1.0,0,,KCQ,0.0,0.001,Detours only
+177322,0,0,0.0,0,,SKK,0.0,0.0,No change
+177322,595,0,0.0,1,KPR,SYB,0.336,0.0,Loss of access
+177322,0,0,0.0,0,,KYK,0.0,0.0,No change
+177322,0,17,1.06,0,,WBB,0.0,0.01,Detours only
+177322,0,0,0.0,0,,KPB,0.0,0.0,No change
+177322,0,0,0.0,0,,PPV,0.0,0.0,No change
+177322,0,0,0.0,0,,KPR,0.0,0.0,No change
+177322,0,2,1.0,0,,MOU,0.0,0.001,Detours only
+177322,0,0,0.0,0,,KWF,0.0,0.0,No change
+177322,0,0,0.0,0,,MTM,0.0,0.0,No change
+177322,0,0,0.0,0,,WRG,0.0,0.0,No change
+177322,0,0,0.0,0,,KTS,0.0,0.0,No change
+177322,0,0,0.0,0,,TLA,0.0,0.0,No change
+177322,0,0,0.0,0,,WAA,0.0,0.0,No change
+177322,0,0,0.0,0,,KVL,0.0,0.0,No change
+177322,0,12,1.17,0,,PHO,0.0,0.007,Detours only
+177322,0,0,0.0,0,,WTK,0.0,0.0,No change
+177322,0,0,0.0,0,,TOG,0.0,0.0,No change
+177322,0,0,0.0,0,,SCK,0.0,0.0,No change
+177322,0,0,0.0,0,,SMX,0.0,0.0,No change
+177322,0,0,0.0,0,,MCE,0.0,0.0,No change
+177322,0,0,0.0,0,,MMH,0.0,0.0,No change
+177322,0,0,0.0,0,,PRC,0.0,0.0,No change
+177322,0,0,0.0,0,,SBP,0.0,0.0,No change
+177322,0,0,0.0,0,,STS,0.0,0.0,No change
+177322,0,0,0.0,0,,VIS,0.0,0.0,No change
+177322,0,0,0.0,0,,YUM,0.0,0.0,No change
+177322,0,0,0.0,0,,LCK,0.0,0.0,No change
+177322,0,0,0.0,0,,LMT,0.0,0.0,No change
+177322,0,0,0.0,0,,LPS,0.0,0.0,No change
+177322,0,0,0.0,0,,LSE,0.0,0.0,No change
+177322,0,0,0.0,0,,LUR,0.0,0.0,No change
+177322,0,0,0.0,0,,PUW,0.0,0.0,No change
+177322,0,0,0.0,0,,MBL,0.0,0.0,No change
+177322,0,0,0.0,0,,NIB,0.0,0.0,No change
+177322,0,0,0.0,0,,TCT,0.0,0.0,No change
+177322,0,0,0.0,0,,TLJ,0.0,0.0,No change
+177322,0,0,0.0,0,,SLN,0.0,0.0,No change
+177322,0,0,0.0,0,,MKG,0.0,0.0,No change
+177322,0,0,0.0,0,,MOD,0.0,0.0,No change
+177322,0,0,0.0,0,,MUE,0.0,0.0,No change
+177322,0,0,0.0,0,,MWA,0.0,0.0,No change
+177322,0,0,0.0,0,,YNG,0.0,0.0,No change
+177322,0,0,0.0,0,,TNK,0.0,0.0,No change
+177322,0,0,0.0,0,,SHH,0.0,0.0,No change
+177322,0,0,0.0,0,,TNC,0.0,0.0,No change
+177322,0,0,0.0,0,,PAH,0.0,0.0,No change
+177322,0,0,0.0,0,,SUX,0.0,0.0,No change
+177322,0,0,0.0,0,,TOL,0.0,0.0,No change
+177322,0,0,0.0,0,,OTH,0.0,0.0,No change
+177322,0,0,0.0,0,,WLK,0.0,0.0,No change
+177322,0,0,0.0,0,,OWB,0.0,0.0,No change
+177322,0,0,0.0,0,,PDT,0.0,0.0,No change
+177322,0,0,0.0,0,,SVC,0.0,0.0,No change
+177322,0,0,0.0,0,,PIH,0.0,0.0,No change
+177322,0,0,0.0,0,,PSM,0.0,0.0,No change
+177322,0,0,0.0,0,,RDD,0.0,0.0,No change
+177322,0,0,0.0,0,,YKM,0.0,0.0,No change
+177322,0,0,0.0,0,,TWF,0.0,0.0,No change
+177322,0,0,0.0,0,,VEL,0.0,0.0,No change
+177322,0,0,0.0,0,,SMK,0.0,0.0,No change
+177322,0,0,0.0,0,,TBN,0.0,0.0,No change
+177322,0,0,0.0,0,,UIN,0.0,0.0,No change
+177322,0,0,0.0,0,,UST,0.0,0.0,No change

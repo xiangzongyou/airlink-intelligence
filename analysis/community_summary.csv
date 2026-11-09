@@ -1,0 +1,14 @@
+community,airports,hubs,main_timezone,tz_share,states_hint
+0,126,DEN LAS LAX SLC,Denver,0.42,Denver Las Los Salt Phoenix Seattle
+1,118,CLT PHL DCA IAD,New_York,0.8,Charlotte Philadelphia Washington Washington Orlando Newark
+2,110,ATL ORD MSP DTW,New_York,0.48,Atlanta Chicago Minneapolis Detroit Sanford Mesa
+3,87,ANC FAI OME OTZ,Anchorage,0.99,Anchorage Fairbanks Nome Kotzebue King Barrow
+4,52,BET ANI MCG KSM,Anchorage,0.98,Bethel Aniak Mcgrath St Russian Sleetmute
+5,48,DFW IAH AUS SAT,Chicago,0.94,Dallas-Fort Houston Austin San Dallas El
+6,28,JNU KTN CGA HYL,Anchorage,0.96,Juneau Ketchikan Craig Hollis Thorne Angoon
+7,12,ADQ AOS KKB KLN,Anchorage,1.0,Kodiak Amook Kitoi Larsen Ouzinkie Port
+8,7,HPN ACK MVY EWB,New_York,1.0,White Nantucket Vineyard New Barnstable Lebanon
+9,6,DHB RCE WSX FBS,Los_Angeles,1.0,Deer Roche Westsound Friday Seattle Lopez
+10,4,DUT AKB IKO KQA,Anchorage,0.75,Unalaska Atka Nikolski Akutan
+11,4,BFI ESD FRD CLM,Los_Angeles,1.0,Seattle Eastsound Friday Port
+12,3,PIR ATY HON,Chicago,1.0,Pierre Watertown Huron

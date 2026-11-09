@@ -1,0 +1,367 @@
+scope,strategy,airports_closed,pct_in_largest_component
+All US domestic,Random (mean of 30),0,98.68
+All US domestic,Random (mean of 30),1,98.19
+All US domestic,Random (mean of 30),2,97.96
+All US domestic,Random (mean of 30),3,97.75
+All US domestic,Random (mean of 30),4,97.32
+All US domestic,Random (mean of 30),5,97.12
+All US domestic,Random (mean of 30),6,96.89
+All US domestic,Random (mean of 30),7,96.55
+All US domestic,Random (mean of 30),8,96.08
+All US domestic,Random (mean of 30),9,95.77
+All US domestic,Random (mean of 30),10,95.57
+All US domestic,Random (mean of 30),11,95.4
+All US domestic,Random (mean of 30),12,95.23
+All US domestic,Random (mean of 30),13,95.02
+All US domestic,Random (mean of 30),14,94.85
+All US domestic,Random (mean of 30),15,94.56
+All US domestic,Random (mean of 30),16,94.34
+All US domestic,Random (mean of 30),17,93.73
+All US domestic,Random (mean of 30),18,93.55
+All US domestic,Random (mean of 30),19,93.2
+All US domestic,Random (mean of 30),20,92.98
+All US domestic,Random (mean of 30),21,92.82
+All US domestic,Random (mean of 30),22,92.38
+All US domestic,Random (mean of 30),23,92.2
+All US domestic,Random (mean of 30),24,92.06
+All US domestic,Random (mean of 30),25,90.73
+All US domestic,Random (mean of 30),26,90.38
+All US domestic,Random (mean of 30),27,90.21
+All US domestic,Random (mean of 30),28,90.04
+All US domestic,Random (mean of 30),29,89.87
+All US domestic,Random (mean of 30),30,89.71
+All US domestic,Random (mean of 30),31,89.32
+All US domestic,Random (mean of 30),32,88.92
+All US domestic,Random (mean of 30),33,88.75
+All US domestic,Random (mean of 30),34,88.58
+All US domestic,Random (mean of 30),35,88.41
+All US domestic,Random (mean of 30),36,88.17
+All US domestic,Random (mean of 30),37,88.01
+All US domestic,Random (mean of 30),38,87.79
+All US domestic,Random (mean of 30),39,87.63
+All US domestic,Random (mean of 30),40,87.42
+All US domestic,Random (mean of 30),41,87.23
+All US domestic,Random (mean of 30),42,87.0
+All US domestic,Random (mean of 30),43,86.83
+All US domestic,Random (mean of 30),44,86.57
+All US domestic,Random (mean of 30),45,86.4
+All US domestic,Random (mean of 30),46,86.15
+All US domestic,Random (mean of 30),47,85.96
+All US domestic,Random (mean of 30),48,85.75
+All US domestic,Random (mean of 30),49,85.57
+All US domestic,Random (mean of 30),50,85.36
+All US domestic,Random (mean of 30),51,85.12
+All US domestic,Random (mean of 30),52,84.86
+All US domestic,Random (mean of 30),53,84.63
+All US domestic,Random (mean of 30),54,84.46
+All US domestic,Random (mean of 30),55,84.26
+All US domestic,Random (mean of 30),56,84.06
+All US domestic,Random (mean of 30),57,83.53
+All US domestic,Random (mean of 30),58,83.32
+All US domestic,Random (mean of 30),59,83.06
+All US domestic,Random (mean of 30),60,82.87
+All US domestic,Highest degree first,0,98.68
+All US domestic,Highest degree first,1,96.69
+All US domestic,Highest degree first,2,93.39
+All US domestic,Highest degree first,3,91.9
+All US domestic,Highest degree first,4,89.26
+All US domestic,Highest degree first,5,86.78
+All US domestic,Highest degree first,6,84.79
+All US domestic,Highest degree first,7,84.46
+All US domestic,Highest degree first,8,83.14
+All US domestic,Highest degree first,9,80.33
+All US domestic,Highest degree first,10,79.5
+All US domestic,Highest degree first,11,78.02
+All US domestic,Highest degree first,12,75.7
+All US domestic,Highest degree first,13,74.88
+All US domestic,Highest degree first,14,73.06
+All US domestic,Highest degree first,15,71.24
+All US domestic,Highest degree first,16,69.42
+All US domestic,Highest degree first,17,69.09
+All US domestic,Highest degree first,18,68.76
+All US domestic,Highest degree first,19,68.43
+All US domestic,Highest degree first,20,67.27
+All US domestic,Highest degree first,21,66.61
+All US domestic,Highest degree first,22,65.29
+All US domestic,Highest degree first,23,63.64
+All US domestic,Highest degree first,24,63.47
+All US domestic,Highest degree first,25,62.98
+All US domestic,Highest degree first,26,62.15
+All US domestic,Highest degree first,27,61.82
+All US domestic,Highest degree first,28,61.49
+All US domestic,Highest degree first,29,60.33
+All US domestic,Highest degree first,30,58.84
+All US domestic,Highest degree first,31,54.38
+All US domestic,Highest degree first,32,51.9
+All US domestic,Highest degree first,33,47.27
+All US domestic,Highest degree first,34,45.62
+All US domestic,Highest degree first,35,44.79
+All US domestic,Highest degree first,36,19.83
+All US domestic,Highest degree first,37,18.68
+All US domestic,Highest degree first,38,18.68
+All US domestic,Highest degree first,39,16.69
+All US domestic,Highest degree first,40,16.2
+All US domestic,Highest degree first,41,14.88
+All US domestic,Highest degree first,42,13.88
+All US domestic,Highest degree first,43,13.88
+All US domestic,Highest degree first,44,12.56
+All US domestic,Highest degree first,45,12.56
+All US domestic,Highest degree first,46,12.56
+All US domestic,Highest degree first,47,12.56
+All US domestic,Highest degree first,48,10.41
+All US domestic,Highest degree first,49,9.75
+All US domestic,Highest degree first,50,9.42
+All US domestic,Highest degree first,51,5.79
+All US domestic,Highest degree first,52,5.79
+All US domestic,Highest degree first,53,5.79
+All US domestic,Highest degree first,54,5.79
+All US domestic,Highest degree first,55,5.79
+All US domestic,Highest degree first,56,5.79
+All US domestic,Highest degree first,57,5.79
+All US domestic,Highest degree first,58,2.98
+All US domestic,Highest degree first,59,2.98
+All US domestic,Highest degree first,60,2.98
+All US domestic,Highest betweenness first,0,98.68
+All US domestic,Highest betweenness first,1,92.56
+All US domestic,Highest betweenness first,2,67.44
+All US domestic,Highest betweenness first,3,64.13
+All US domestic,Highest betweenness first,4,62.15
+All US domestic,Highest betweenness first,5,60.0
+All US domestic,Highest betweenness first,6,58.02
+All US domestic,Highest betweenness first,7,55.54
+All US domestic,Highest betweenness first,8,55.21
+All US domestic,Highest betweenness first,9,52.73
+All US domestic,Highest betweenness first,10,50.74
+All US domestic,Highest betweenness first,11,48.43
+All US domestic,Highest betweenness first,12,46.61
+All US domestic,Highest betweenness first,13,45.12
+All US domestic,Highest betweenness first,14,43.31
+All US domestic,Highest betweenness first,15,42.31
+All US domestic,Highest betweenness first,16,41.16
+All US domestic,Highest betweenness first,17,37.85
+All US domestic,Highest betweenness first,18,37.85
+All US domestic,Highest betweenness first,19,36.53
+All US domestic,Highest betweenness first,20,34.88
+All US domestic,Highest betweenness first,21,33.39
+All US domestic,Highest betweenness first,22,32.07
+All US domestic,Highest betweenness first,23,30.74
+All US domestic,Highest betweenness first,24,30.41
+All US domestic,Highest betweenness first,25,29.92
+All US domestic,Highest betweenness first,26,29.92
+All US domestic,Highest betweenness first,27,29.59
+All US domestic,Highest betweenness first,28,28.93
+All US domestic,Highest betweenness first,29,28.26
+All US domestic,Highest betweenness first,30,27.6
+All US domestic,Highest betweenness first,31,27.11
+All US domestic,Highest betweenness first,32,26.94
+All US domestic,Highest betweenness first,33,26.61
+All US domestic,Highest betweenness first,34,24.79
+All US domestic,Highest betweenness first,35,24.46
+All US domestic,Highest betweenness first,36,23.97
+All US domestic,Highest betweenness first,37,23.64
+All US domestic,Highest betweenness first,38,21.32
+All US domestic,Highest betweenness first,39,20.99
+All US domestic,Highest betweenness first,40,17.19
+All US domestic,Highest betweenness first,41,16.86
+All US domestic,Highest betweenness first,42,12.56
+All US domestic,Highest betweenness first,43,9.42
+All US domestic,Highest betweenness first,44,9.42
+All US domestic,Highest betweenness first,45,8.26
+All US domestic,Highest betweenness first,46,6.94
+All US domestic,Highest betweenness first,47,5.79
+All US domestic,Highest betweenness first,48,5.79
+All US domestic,Highest betweenness first,49,4.63
+All US domestic,Highest betweenness first,50,4.13
+All US domestic,Highest betweenness first,51,4.13
+All US domestic,Highest betweenness first,52,4.13
+All US domestic,Highest betweenness first,53,2.98
+All US domestic,Highest betweenness first,54,2.98
+All US domestic,Highest betweenness first,55,2.98
+All US domestic,Highest betweenness first,56,2.64
+All US domestic,Highest betweenness first,57,1.98
+All US domestic,Highest betweenness first,58,1.98
+All US domestic,Highest betweenness first,59,1.98
+All US domestic,Highest betweenness first,60,1.98
+Lower 48 only,Random (mean of 30),0,100.0
+Lower 48 only,Random (mean of 30),1,99.61
+Lower 48 only,Random (mean of 30),2,99.34
+Lower 48 only,Random (mean of 30),3,98.93
+Lower 48 only,Random (mean of 30),4,98.55
+Lower 48 only,Random (mean of 30),5,98.26
+Lower 48 only,Random (mean of 30),6,97.92
+Lower 48 only,Random (mean of 30),7,97.61
+Lower 48 only,Random (mean of 30),8,97.31
+Lower 48 only,Random (mean of 30),9,96.89
+Lower 48 only,Random (mean of 30),10,96.52
+Lower 48 only,Random (mean of 30),11,96.27
+Lower 48 only,Random (mean of 30),12,95.96
+Lower 48 only,Random (mean of 30),13,95.56
+Lower 48 only,Random (mean of 30),14,95.3
+Lower 48 only,Random (mean of 30),15,94.86
+Lower 48 only,Random (mean of 30),16,94.48
+Lower 48 only,Random (mean of 30),17,94.23
+Lower 48 only,Random (mean of 30),18,93.92
+Lower 48 only,Random (mean of 30),19,93.66
+Lower 48 only,Random (mean of 30),20,93.18
+Lower 48 only,Random (mean of 30),21,92.88
+Lower 48 only,Random (mean of 30),22,92.51
+Lower 48 only,Random (mean of 30),23,92.18
+Lower 48 only,Random (mean of 30),24,91.92
+Lower 48 only,Random (mean of 30),25,91.58
+Lower 48 only,Random (mean of 30),26,91.32
+Lower 48 only,Random (mean of 30),27,90.78
+Lower 48 only,Random (mean of 30),28,90.52
+Lower 48 only,Random (mean of 30),29,90.24
+Lower 48 only,Random (mean of 30),30,89.86
+Lower 48 only,Random (mean of 30),31,89.46
+Lower 48 only,Random (mean of 30),32,89.17
+Lower 48 only,Random (mean of 30),33,88.77
+Lower 48 only,Random (mean of 30),34,88.42
+Lower 48 only,Random (mean of 30),35,87.96
+Lower 48 only,Random (mean of 30),36,87.63
+Lower 48 only,Random (mean of 30),37,87.29
+Lower 48 only,Random (mean of 30),38,87.0
+Lower 48 only,Random (mean of 30),39,86.73
+Lower 48 only,Random (mean of 30),40,86.34
+Lower 48 only,Random (mean of 30),41,86.07
+Lower 48 only,Random (mean of 30),42,85.81
+Lower 48 only,Random (mean of 30),43,85.47
+Lower 48 only,Random (mean of 30),44,85.24
+Lower 48 only,Random (mean of 30),45,84.94
+Lower 48 only,Random (mean of 30),46,84.64
+Lower 48 only,Random (mean of 30),47,84.17
+Lower 48 only,Random (mean of 30),48,83.82
+Lower 48 only,Random (mean of 30),49,83.56
+Lower 48 only,Random (mean of 30),50,83.34
+Lower 48 only,Random (mean of 30),51,83.06
+Lower 48 only,Random (mean of 30),52,82.79
+Lower 48 only,Random (mean of 30),53,82.55
+Lower 48 only,Random (mean of 30),54,82.3
+Lower 48 only,Random (mean of 30),55,81.93
+Lower 48 only,Random (mean of 30),56,81.67
+Lower 48 only,Random (mean of 30),57,81.37
+Lower 48 only,Random (mean of 30),58,81.04
+Lower 48 only,Random (mean of 30),59,80.74
+Lower 48 only,Random (mean of 30),60,80.42
+Lower 48 only,Highest degree first,0,100.0
+Lower 48 only,Highest degree first,1,97.06
+Lower 48 only,Highest degree first,2,94.85
+Lower 48 only,Highest degree first,3,89.95
+Lower 48 only,Highest degree first,4,86.03
+Lower 48 only,Highest degree first,5,82.35
+Lower 48 only,Highest degree first,6,79.41
+Lower 48 only,Highest degree first,7,78.92
+Lower 48 only,Highest degree first,8,76.96
+Lower 48 only,Highest degree first,9,72.79
+Lower 48 only,Highest degree first,10,71.57
+Lower 48 only,Highest degree first,11,70.34
+Lower 48 only,Highest degree first,12,66.91
+Lower 48 only,Highest degree first,13,64.22
+Lower 48 only,Highest degree first,14,62.01
+Lower 48 only,Highest degree first,15,61.52
+Lower 48 only,Highest degree first,16,58.82
+Lower 48 only,Highest degree first,17,58.33
+Lower 48 only,Highest degree first,18,57.84
+Lower 48 only,Highest degree first,19,55.88
+Lower 48 only,Highest degree first,20,54.9
+Lower 48 only,Highest degree first,21,52.21
+Lower 48 only,Highest degree first,22,49.75
+Lower 48 only,Highest degree first,23,48.04
+Lower 48 only,Highest degree first,24,47.79
+Lower 48 only,Highest degree first,25,47.06
+Lower 48 only,Highest degree first,26,45.83
+Lower 48 only,Highest degree first,27,45.34
+Lower 48 only,Highest degree first,28,44.85
+Lower 48 only,Highest degree first,29,42.65
+Lower 48 only,Highest degree first,30,37.99
+Lower 48 only,Highest degree first,31,34.31
+Lower 48 only,Highest degree first,32,30.64
+Lower 48 only,Highest degree first,33,28.19
+Lower 48 only,Highest degree first,34,26.72
+Lower 48 only,Highest degree first,35,25.25
+Lower 48 only,Highest degree first,36,22.3
+Lower 48 only,Highest degree first,37,20.59
+Lower 48 only,Highest degree first,38,19.12
+Lower 48 only,Highest degree first,39,17.16
+Lower 48 only,Highest degree first,40,16.18
+Lower 48 only,Highest degree first,41,12.99
+Lower 48 only,Highest degree first,42,12.01
+Lower 48 only,Highest degree first,43,12.01
+Lower 48 only,Highest degree first,44,10.78
+Lower 48 only,Highest degree first,45,8.58
+Lower 48 only,Highest degree first,46,4.41
+Lower 48 only,Highest degree first,47,2.7
+Lower 48 only,Highest degree first,48,2.7
+Lower 48 only,Highest degree first,49,1.47
+Lower 48 only,Highest degree first,50,1.47
+Lower 48 only,Highest degree first,51,1.47
+Lower 48 only,Highest degree first,52,1.47
+Lower 48 only,Highest degree first,53,1.47
+Lower 48 only,Highest degree first,54,1.47
+Lower 48 only,Highest degree first,55,1.47
+Lower 48 only,Highest degree first,56,1.47
+Lower 48 only,Highest degree first,57,1.47
+Lower 48 only,Highest degree first,58,1.47
+Lower 48 only,Highest degree first,59,1.47
+Lower 48 only,Highest degree first,60,1.47
+Lower 48 only,Highest betweenness first,0,100.0
+Lower 48 only,Highest betweenness first,1,95.1
+Lower 48 only,Highest betweenness first,2,92.16
+Lower 48 only,Highest betweenness first,3,88.97
+Lower 48 only,Highest betweenness first,4,86.03
+Lower 48 only,Highest betweenness first,5,82.35
+Lower 48 only,Highest betweenness first,6,81.86
+Lower 48 only,Highest betweenness first,7,78.92
+Lower 48 only,Highest betweenness first,8,75.49
+Lower 48 only,Highest betweenness first,9,72.06
+Lower 48 only,Highest betweenness first,10,69.36
+Lower 48 only,Highest betweenness first,11,66.67
+Lower 48 only,Highest betweenness first,12,64.46
+Lower 48 only,Highest betweenness first,13,61.76
+Lower 48 only,Highest betweenness first,14,60.29
+Lower 48 only,Highest betweenness first,15,58.58
+Lower 48 only,Highest betweenness first,16,53.68
+Lower 48 only,Highest betweenness first,17,51.96
+Lower 48 only,Highest betweenness first,18,49.26
+Lower 48 only,Highest betweenness first,19,47.06
+Lower 48 only,Highest betweenness first,20,45.1
+Lower 48 only,Highest betweenness first,21,43.14
+Lower 48 only,Highest betweenness first,22,42.65
+Lower 48 only,Highest betweenness first,23,41.91
+Lower 48 only,Highest betweenness first,24,39.71
+Lower 48 only,Highest betweenness first,25,38.24
+Lower 48 only,Highest betweenness first,26,37.75
+Lower 48 only,Highest betweenness first,27,37.01
+Lower 48 only,Highest betweenness first,28,36.76
+Lower 48 only,Highest betweenness first,29,36.03
+Lower 48 only,Highest betweenness first,30,33.09
+Lower 48 only,Highest betweenness first,31,30.15
+Lower 48 only,Highest betweenness first,32,28.92
+Lower 48 only,Highest betweenness first,33,25.25
+Lower 48 only,Highest betweenness first,34,24.75
+Lower 48 only,Highest betweenness first,35,22.3
+Lower 48 only,Highest betweenness first,36,21.08
+Lower 48 only,Highest betweenness first,37,19.36
+Lower 48 only,Highest betweenness first,38,17.65
+Lower 48 only,Highest betweenness first,39,15.69
+Lower 48 only,Highest betweenness first,40,14.95
+Lower 48 only,Highest betweenness first,41,14.71
+Lower 48 only,Highest betweenness first,42,14.46
+Lower 48 only,Highest betweenness first,43,7.84
+Lower 48 only,Highest betweenness first,44,5.88
+Lower 48 only,Highest betweenness first,45,4.66
+Lower 48 only,Highest betweenness first,46,3.19
+Lower 48 only,Highest betweenness first,47,2.94
+Lower 48 only,Highest betweenness first,48,2.45
+Lower 48 only,Highest betweenness first,49,1.72
+Lower 48 only,Highest betweenness first,50,1.72
+Lower 48 only,Highest betweenness first,51,1.72
+Lower 48 only,Highest betweenness first,52,1.47
+Lower 48 only,Highest betweenness first,53,1.23
+Lower 48 only,Highest betweenness first,54,0.98
+Lower 48 only,Highest betweenness first,55,0.74
+Lower 48 only,Highest betweenness first,56,0.74
+Lower 48 only,Highest betweenness first,57,0.74
+Lower 48 only,Highest betweenness first,58,0.74
+Lower 48 only,Highest betweenness first,59,0.74
+Lower 48 only,Highest betweenness first,60,0.74
