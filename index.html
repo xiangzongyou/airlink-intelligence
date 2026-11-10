@@ -242,9 +242,9 @@ footer{grid-column:1/-1;color:var(--muted);font-size:13px;text-align:center;padd
     <section class="card">
       <div class="tabs" role="tablist">
         <button role="tab" aria-selected="true" data-t="t1">Critical airports</button>
-        <button role="tab" aria-selected="false" data-t="t2">Single closures (Q1)</button>
-        <button role="tab" aria-selected="false" data-t="t5">Communities (Q2)</button>
-        <button role="tab" aria-selected="false" data-t="t3">Robustness (Level 1)</button>
+        <button role="tab" aria-selected="false" data-t="t2">Single closures</button>
+        <button role="tab" aria-selected="false" data-t="t5">Communities</button>
+        <button role="tab" aria-selected="false" data-t="t3">Robustness</button>
         <button role="tab" aria-selected="false" data-t="t4">About the data</button>
       </div>
       <div class="tabpanel" id="t1">
@@ -304,7 +304,7 @@ footer{grid-column:1/-1;color:var(--muted);font-size:13px;text-align:center;padd
       </div>
     </section>
   </main>
-  <footer>AirLink Intelligence · Trung Hieu Le, Zongyou Xiang, Sri Nikhil Jemili · CAP 6318 team project · Version 1.4 (simpler simulator)</footer>
+  <footer>AirLink Intelligence · Trung Hieu Le, Zongyou Xiang, Sri Nikhil Jemili · CAP 6318 team project · Version 1.5</footer>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
@@ -717,10 +717,8 @@ footer{grid-column:1/-1;color:var(--muted);font-size:13px;text-align:center;padd
     if (!S.closed.length) {
       el.innerHTML = `<h2>Disruption simulator</h2>
         <p class="sub">What happens if airports shut down at the same time, for example during a storm or a system outage?</p>
-        <ol class="steps">
-          <li><span class="n">1</span><div><b>Choose airports to close</b>Type a code or city and press Close. Add as many as you like.
-            ${closeControl("e.g. ATL or Atlanta")}</div></li>
-        </ol>
+        <div style="margin:0 0 6px"><b>Choose airports to close</b><br>Type a code or city and press Close. Add as many as you like.
+          <div style="margin-top:8px">${closeControl("e.g. ATL or Atlanta")}</div></div>
         <p class="hint">On the map, closed airports turn <span class="dot" style="background:#FF3B30"></span>red and airports
           cut off from the network turn <span class="dot" style="background:#FF9500"></span>orange.</p>`;
       wireCloseControl(el);
