@@ -1,0 +1,24 @@
+airport_a,airport_b,airports_cut_off,trips_lost,cut_off_list,miles_apart,shared_hazard_risk,city_a,city_b,region
+TLT,KWT,2,1186,AKI KKI,27,True,Tuluksak,Kwethluk,Alaska
+HCR,SHX,2,1186,ANV KGX,35,True,Holy Cross,Shageluk,Alaska
+KCG,KPV,2,1186,KCL KCQ,36,True,Chignik,Perryville,Alaska
+KSM,EMK,2,1186,AUK SXP,63,True,St Mary's,Emmonak,Alaska
+CHU,SLQ,2,1186,CKD RDV,68,True,Chuathbaluk,Sleetmute,Alaska
+DAL,MEM,2,1186,ELD HOT,422,False,Dallas,Memphis,Lower 48
+KCG,KCQ,1,594,KCL,8,True,Chignik,Chignik Lake,Alaska
+AKI,KWT,1,594,KKI,11,True,Akiak,Kwethluk,Alaska
+CVG,LUK,1,594,MMU,14,True,Cincinnati,Cincinnati,Lower 48
+KSM,PQS,1,594,MOU,16,True,St Mary's,Pilot Station,Alaska
+KKI,TLT,1,594,AKI,20,True,Akiachak,Tuluksak,Alaska
+SHX,ANV,1,594,KGX,20,True,Shageluk,Anvik,Alaska
+EMK,SXP,1,594,AUK,22,True,Emmonak,Nunam Iqua,Alaska
+SLQ,CKD,1,594,RDV,34,True,Sleetmute,Crooked Creek,Alaska
+KPV,KCL,1,594,KCQ,37,True,Perryville,Chignik Lagoon,Alaska
+HCR,KGX,1,594,ANV,50,True,Holy Cross,Grayling,Alaska
+UNK,WBB,1,594,SMK,52,True,Unalakleet,Stebbins,Alaska
+KSM,AUK,1,594,SXP,61,True,St Mary's,Alakanuk,Alaska
+BTT,AKP,1,594,CXF,84,True,Bettles,Anaktuvuk Pass,Alaska
+SAN,BUR,1,594,IPL,122,True,San Diego,Burbank,Lower 48
+HNL,KOA,1,594,JHM,163,False,Honolulu,Kona,Hawaii/Pacific
+FLL,MCO,1,594,ORH,178,False,Fort Lauderdale,Orlando,Lower 48
+MEM,ELD,1,594,HOT,205,False,Memphis,El Dorado,Lower 48
